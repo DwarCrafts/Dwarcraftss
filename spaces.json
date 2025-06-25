@@ -1,0 +1,2488 @@
+{
+  "1. Residential Spaces": {
+    "Living Room": [
+      "Sofa", "Loveseat", "Armchair", "Sectional Sofa", "Coffee Table", "Side Table",
+      "TV Stand", "Media Console", "Display Cabinet", "Bookshelf", "Wall Shelf",
+      "Console Table", "Ottoman", "Recliner", "Bean Bag", "Chaise Lounge",
+      "Nesting Table", "Magazine Rack", "End Table", "Floating Shelf", "Other"
+    ],
+    "Bedroom": [
+      "Platform Bed", "Bunk Bed", "Canopy Bed", "Floating Bed", "Nightstand", "Dresser",
+      "Chest of Drawers", "Wardrobe", "Armoire", "Vanity", "Bedside Table", "Headboard",
+      "Trunk Box", "Mirror", "Bench", "Shoe Rack", "Underbed Storage", "Closet Organizer",
+      "Bed Frame", "Wall-mounted Headboard", "Other"
+    ],
+    "Dining Room": [
+      "Dining Table", "Dining Chair", "Benches", "Sideboard", "Buffet", "Bar Stool",
+      "Wine Rack", "Bar Cabinet", "Dining Booth", "Hutch Cabinet", "Foldable Table",
+      "Extendable Table", "Glass Table", "High Chair", "Table Set", "Lazy Susan",
+      "Corner Bench", "Storage Table", "Dining Hutch", "Other"
+    ],
+    "Home Office": [
+      "Writing Desk", "Executive Desk", "Standing Desk", "File Cabinet", "Office Chair",
+      "Bookshelf", "Printer Stand", "Workstation", "Laptop Table", "Cubicle Partition",
+      "Whiteboard", "Rolling Desk", "Wall Desk", "Modular Desk", "Desk Organizer",
+      "Secretary Desk", "Storage Unit", "Study Table", "Conference Table", "Other"
+    ],
+    "Outdoor/Patio": [
+      "Patio Chair", "Outdoor Table", "Hammock", "Outdoor Sofa", "Outdoor Bench",
+      "Swing Chair", "Garden Stool", "Fire Pit Table", "Pergola", "Outdoor Cabinet",
+      "Balcony Chair", "Bistro Set", "Garden Planter", "Deck Box", "Folding Chair",
+      "Lounge Chair", "Gazebo", "Poolside Bed", "Picnic Table", "Other"
+    ]
+  },
+
+  "2. Decor, Wall Art & Portraits": {
+    "Decor": [
+      "Vases", "Candle Holders", "Mirrors", "Clocks", "Wall Hooks", "Planters",
+      "Table Centerpieces", "Decorative Bowls", "Picture Frames", "Sculpture Art",
+      "Figurines", "Wall Clocks", "Lamps", "Curtain Rods", "Wall Sconces",
+      "Indoor Fountains", "Wreaths", "Potpourri Holders", "Decorative Boxes", "Other"
+    ],
+    "Wall Art": [
+      "Canvas Prints", "Framed Art", "Wood Art", "Metal Art", "Abstract Art",
+      "African Art", "Typography Prints", "Wall Decals", "Tapestries", "Wall Murals",
+      "Inspirational Quotes", "Calligraphy Art", "Religious Art", "3D Wall Panels",
+      "Mosaic Art", "Wall Maps", "Gallery Sets", "Photo Collage Frames", "Line Art", "Other"
+    ],
+    "Portraits": [
+      "Pencil Portrait", "Oil Painting", "Watercolor Portrait", "Digital Illustration",
+      "Charcoal Sketch", "Couple Portrait", "Family Portrait", "Pet Portrait",
+      "Child Portrait", "Cultural Dress Portrait", "Fantasy Portrait", "Cartoon Style",
+      "Hyperrealistic", "Black & White", "Sepia Tone", "Caricature", "Royalty Style",
+      "Landscape with Figure", "Photo-to-Art", "Other"
+    ]
+  },
+
+  "3. Community, Events & Worship": {
+    "Church & Mosque": [
+      "Pulpit", "Altar Table", "Church Bench", "Prayer Rug", "Offering Box", "Prayer Stand",
+      "Holy Water Font", "Religious Art", "Cross Stand", "Confessional", "Lectern",
+      "Organ Bench", "Hymn Book Rack", "Wall Cross", "Banners", "Communion Table",
+      "Prayer Table", "Donation Box", "Choir Stand", "Other"
+    ],
+    "Event Hall": [
+      "Stage Backdrop", "Podium", "Stage Bench", "LED Screen Frame", "Backdrop Stand",
+      "Event Table", "Banquet Chair", "Stage Light Box", "VIP Sofa", "Stage Flower Stand",
+      "Crowd Barrier", "Aisle Stand", "Reception Desk", "Guestbook Table", "Bunting Stand",
+      "Ribbon Pole", "Speaker Holder", "Red Carpet Stand", "Display Unit", "Other"
+    ],
+    "Community Center": [
+      "Folding Table", "Multipurpose Chair", "Game Table", "Reception Desk",
+      "Display Shelf", "Storage Unit", "Crafting Table", "Whiteboard", "Bulletin Board",
+      "Projector Stand", "Children's Table", "Reading Bench", "Notice Board", "Coffee Table",
+      "Planters", "Wall Art", "Curtains", "Fan Stand", "Clock", "Other"
+    ],
+    "Classroom": [
+      "Student Desk", "Teacher's Table", "Blackboard", "Whiteboard", "Chair Set",
+      "Book Shelf", "Reading Table", "Display Cabinet", "Storage Locker", "Projector Table",
+      "Marker Holder", "Wall Chart Board", "Laboratory Bench", "Bunk Bed",
+      "Notice Board", "Curtains", "Waste Basket", "Laptop Stand", "Podium", "Other"
+    ]
+  },
+
+  "4. Industrial, Agricultural & Transport": {
+    "Factory Floor": [
+      "Work Bench", "Assembly Table", "Tool Rack", "Machine Stand", "Parts Shelf",
+      "Rolling Cart", "Work Stool", "Control Panel Stand", "Locker", "Materials Bin",
+      "Safety Rack", "Oil Drum Holder", "Chemical Stand", "Monitor Arm", "Shelf Rack",
+      "Industrial Light", "Warning Sign Frame", "Hand Wash Station", "Steel Table", "Other"
+    ],
+    "Workshop": [
+      "Workbench", "Tool Cabinet", "Pegboard Rack", "Saw Table", "Welding Bench",
+      "Storage Drawers", "Spare Parts Rack", "Mobile Tool Chest", "Power Tool Stand",
+      "Workbench Stool", "Blueprint Holder", "Measuring Table", "Mounting Clamp Table",
+      "Work Lamp", "Dust Collector Base", "Clamp Rack", "Paint Table", "Material Rack",
+      "Charging Dock", "Other"
+    ],
+    "Farm & Field": [
+      "Produce Crate", "Hay Rack", "Irrigation Stand", "Tool Bench", "Harvest Table",
+      "Seedling Tray", "Feeding Table", "Water Trough", "Planter Box", "Shade Frame",
+      "Milking Station", "Fencing Frame", "Compost Stand", "Grain Bin", "Storage Cage",
+      "Seed Rack", "Farmer Bench", "Barn Shelf", "Market Display", "Other"
+    ],
+    "Transport & Garage": [
+      "Spare Tire Rack", "Car Tool Board", "Jack Holder", "Motorbike Stand",
+      "Car Wash Platform", "Garage Shelf", "Tool Organizer", "Vehicle Display Ramp",
+      "Bike Rack", "Wheel Chock", "Auto Table", "Engine Lift Stand", "Maintenance Bench",
+      "Parts Tray", "Detailing Station", "Battery Charger Mount", "Oil Tray Rack",
+      "Garage Hooks", "Cleaning Stand", "Other"
+    ]
+  }, 
+  {
+  "5. Commercial Spaces": {
+    "Corporate Office": [
+      "Executive Desk", "Workstation", "Conference Table", "Cubicle Partition", "File Cabinet",
+      "Reception Desk", "Visitor Sofa", "Office Chair", "Coffee Table", "Waiting Bench",
+      "Whiteboard", "Notice Board", "Meeting Pod", "Wall Clock", "Planter", "Printer Table",
+      "Corner Shelf", "Wall Art", "Display Stand", "Other"
+    ],
+    "Showroom": [
+      "Display Counter", "Product Stand", "Wall Mount Display", "Mannequin Base", "Lighting Box",
+      "Demo Table", "Retail Rack", "Mirror Stand", "TV Stand", "Rolling Shelf",
+      "POP Display", "Price Tag Frame", "Customer Bench", "Product Divider", "Gift Wrap Table",
+      "Signage Stand", "Wall Hooks", "Demo Unit", "Point of Sale Desk", "Other"
+    ],
+    "Bank Hall": [
+      "Teller Counter", "Cashier Desk", "Queue Divider", "Waiting Sofa", "Security Desk",
+      "Customer Chair", "Brochure Holder", "Sign Stand", "Clock", "Form Writing Table",
+      "Customer Information Table", "Document Cabinet", "Storage Locker", "Wall Display",
+      "Counter Tray", "Cheque Drop Box", "Podium", "Partition Wall", "TV Mount", "Other"
+    ]
+  },
+  "6. Hospitality & Lodging": {
+    "Hotel Lobby": [
+      "Reception Counter", "Lobby Sofa", "Center Table", "Information Kiosk", "Wall Art",
+      "Directional Sign", "Lamp Stand", "Luggage Rack", "Brochure Stand", "Refreshment Table",
+      "Planter", "Magazine Rack", "Curtains", "TV Stand", "Clock", "Display Shelf",
+      "Partition Screen", "Ottoman", "Flower Stand", "Other"
+    ],
+    "Guest Room": [
+      "Bed", "Bedside Table", "Headboard", "Reading Lamp", "Wardrobe", "Dressing Table",
+      "Mini Fridge Stand", "Desk", "TV Stand", "Sofa", "Luggage Bench", "Wall Art",
+      "Curtains", "Coffee Table", "Mirror", "Phone Stand", "Wall Shelf", "Towel Rack",
+      "Shoe Rack", "Other"
+    ],
+    "Restaurant/Dining": [
+      "Dining Table", "Dining Chair", "Booth Seat", "Buffet Counter", "Bar Stool",
+      "Menu Stand", "Decorative Light", "Wall Decor", "Serving Shelf", "Napkin Holder",
+      "Condiment Stand", "Centerpiece", "Divider Panel", "Waiter's Station", "Table Number Holder",
+      "Host Stand", "Bench", "Wine Rack", "High Chair", "Other"
+content://com.android.externalstorage.documents/tree/primary%3ADwarCraftsSite1::primary:DwarCraftsSite1/spaces.json    ]
+  },
+  "7. Outdoor & Recreational": {
+    "Garden": [
+      "Outdoor Bench", "Garden Swing", "Pergola", "Planter Box", "Bird Feeder Stand",
+      "Outdoor Coffee Table", "Lantern Post", "Garden Sculpture", "Gazebo Furniture",
+      "Tool Storage", "Hose Stand", "Trellis Frame", "Deck Chair", "Picnic Table", "Fire Pit Bench",
+      "Raised Planter", "Stepping Stones", "Outdoor Clock", "Wall Fountain", "Other"
+    ],
+    "Playground": [
+      "Slide Support", "Swing Frame", "Sandbox Bench", "Climbing Rack", "Seating Area",
+      "Fence Panel", "Parent Bench", "Tire Swing Base", "Game Board Stand", "Tree Seat",
+      "Jumping Platform", "Information Sign", "Shoes Rack", "Water Dispenser Stand",
+      "Trash Bin Holder", "Shading Structure", "Notice Board", "Snack Counter", "Playhouse Furniture", "Other"
+    ],
+    "Park/Rest Area": [
+      "Rest Bench", "Trash Stand", "Shade Umbrella", "Information Board", "Water Stand",
+      "Path Lighting Frame", "Bike Rack", "Statue Pedestal", "Picnic Bench", "Directional Post",
+      "Community Board", "Resting Deck", "Kiosk Counter", "Swing Chair", "Game Table",
+      "Fountain Perimeter", "Art Display Rack", "Bin Frame", "Clock Pole", "Other"
+    ]
+  },
+  "8. Exhibition, Event & Trade": {
+    "Expo Booth": [
+      "Display Stand", "Podium", "Brochure Rack", "TV Display", "Product Counter",
+      "Back Wall Panel", "Stand Light", "Catalog Table", "Sign Holder", "Sitting Stool",
+      "Interactive Stand", "Laptop Shelf", "Sample Table", "Rolling Banner", "Showcase Frame",
+      "Charging Station", "Storage Cabinet", "Divider Panel", "Floor Mat Platform", "Other"
+    ],
+    "Art Gallery": [
+      "Artwork Stand", "Easel", "Spotlight Frame", "Sculpture Pedestal", "Wall Mount Shelf",
+      "Frame Display", "Information Plaque", "Guest Book Table", "Ambient Lighting Rack",
+      "Rope Barrier", "Painting Frame", "Storage Drawer", "Seating Bench", "Reception Table",
+      "Hanging Rail", "Display Grid", "Poster Rack", "Mirror Display", "Soundbar Shelf", "Other"
+    ],
+    "Conference Center": [
+      "Registration Counter", "Speaker Podium", "Projection Stand", "Audience Chair",
+      "Panel Table", "Whiteboard", "Display TV Mount", "Divider Curtain", "Delegate Table",
+      "Name Plate Stand", "Refreshment Table", "Extension Cable Rack", "Microphone Stand",
+      "Flyer Table", "Storage Locker", "Lighting Control Panel", "Backdrop Frame",
+      "AV Shelf", "Water Dispenser Cabinet", "Other"
+    ]
+  },
+  "9. Healthcare & Clinics": {
+    "Hospital Ward": [
+      "Hospital Bed", "Overbed Table", "IV Stand", "Medical Trolley", "Bedside Locker",
+      "Visitor Chair", "Wall Chart Holder", "Patient Record Shelf", "Dispenser Rack", "Fan Stand",
+      "Curtain Rail", "Oxygen Tank Holder", "Bed Rail", "Trash Stand", "Bed Pan Shelf",
+      "Towel Rack", "Gown Stand", "Nurse Chair", "Medication Cupboard", "Other"
+    ],
+    "Clinic Reception": [
+      "Reception Desk", "Waiting Bench", "Information Stand", "Planter", "Clock", "Brochure Rack",
+      "Check-in Counter", "Water Station", "Display TV Stand", "Directional Sign", "Wall Art",
+      "Sign-in Desk", "Magazine Shelf", "Wall Clock", "Glass Divider", "Call Bell Stand",
+      "Visitor Chair", "Hand Sanitizer Stand", "Decor Frame", "Other"
+    ],
+    "Doctor's Office": [
+      "Consultation Desk", "Patient Chair", "Exam Couch", "Lamp Stand", "File Cabinet",
+      "Wall Art", "Medical Equipment Shelf", "Laptop Table", "Prescription Rack", "Notice Board",
+      "Sink Cabinet", "Curtains", "Fan", "Tablet Holder", "Footrest", "TV Stand", "Rolling Stool",
+      "Partition Panel", "Waste Bin", "Other"
+    ]
+  },
+  {
+  "10. Education & Learning": {
+    "Library": [
+      "Book Shelf", "Reading Table", "Study Chair", "Magazines Rack", "Laptop Desk",
+      "Library Counter", "Card Catalog Cabinet", "Notice Board", "Discussion Table",
+      "Display Shelf", "Quiet Room Divider", "Lighting Fixture", "Charging Station",
+      "Suggestion Box", "Research Terminal", "Wall Clock", "Planters", "Art Display",
+      "Curtains", "Other"
+    ],
+    "Science Lab": [
+      "Lab Bench", "Chemical Storage Rack", "Sink Unit", "Fume Hood Stand", "Microscope Stand",
+      "Equipment Shelf", "Test Tube Rack", "Eyewash Station", "Whiteboard", "Sample Table",
+      "Cabinet", "Display Panel", "Monitor Shelf", "First Aid Box Frame", "Waste Disposal Bin",
+      "Work Stool", "Power Strip Stand", "Safety Poster Board", "Storage Drawer", "Other"
+    ],
+    "Classroom": [
+      "Student Desk", "Teacher Table", "Chalkboard", "Whiteboard", "Reading Shelf",
+      "Bookshelf", "Wall Chart", "Notice Board", "Marker Stand", "Display Cabinet",
+      "Storage Locker", "Laptop Table", "Curtains", "Fan", "Waste Bin", "Podium",
+      "Projector Table", "Shoes Rack", "Hand Wash Basin Stand", "Other"
+    ]
+  },
+  "11. Garden & Landscaping": {
+    "Patio": [
+      "Patio Set", "Outdoor Sofa", "Swing Chair", "Patio Heater", "Sunshade Umbrella",
+      "Rattan Chairs", "Deck Lighting", "Outdoor Rug", "Grill Station", "Storage Bench",
+      "Outdoor Bar", "Fire Pit", "Pergola", "Planter Box", "Side Table",
+      "Lounge Chair", "Weatherproof Cabinet", "Hammock", "Gazebo", "Other"
+    ],
+    "Gazebo Area": [
+      "Built-in Seating", "Ceiling Fan", "Bar Table", "Curtains", "Garden Sofa",
+      "Portable Grill", "Outdoor TV Stand", "Fairy Lights", "Table Set", "Wall Art",
+      "Sound System Cabinet", "Planter Stand", "Outdoor Mat", "Decorative Vases", "Candle Holders",
+      "Lattice Panels", "Throw Pillows", "Rug", "Cooler Chest", "Other"
+    ]
+  },
+  "12. Transportation": {
+    "Train Station": [
+      "Bench", "Information Kiosk", "Luggage Rack", "Wall Clock", "Digital Display",
+      "Overhead Shelving", "ATM Booth", "Announcement Console", "Ticket Machine", "Security Booth",
+      "Directional Signage", "Trash Bin", "Seating Pod", "Charging Station", "Brochure Stand",
+      "Public Phone Stand", "Newsstand Shelf", "Barrier Gate Console", "Self-Check-in Kiosk", "Other"
+    ],
+    "Bus Stop": [
+      "Shelter Seat", "Timetable Panel", "Trash Bin", "Information Board", "Lighting Pole",
+      "Solar Charging Seat", "Rain Cover Bench", "Notice Board", "Bike Rack", "Wi-Fi Router Cabinet",
+      "Hand Sanitizer Stand", "Advertising Board", "Plant Stand", "Route Map Display", "Digital Clock",
+      "Overhead Shade", "Low Table", "Public Art Piece", "Weather Display", "Other"
+    ]
+  },
+  "13. Exhibition & Gallery": {
+    "Art Gallery": [
+      "Display Plinth", "Wall Frame", "LED Spotlight", "Sculpture Stand", "Signage Board",
+      "Reception Desk", "Visitor Bench", "Art Shelf", "Ambient Light Rack", "Display Case",
+      "Hanging Wire System", "Information Plaque Stand", "Brochure Dispenser", "Guestbook Table", "Interactive Screen",
+      "Projector Stand", "Podium", "Guard Rail", "Queue Line Divider", "Other"
+    ],
+    "Museum": [
+      "Exhibit Stand", "Artifact Cabinet", "Display Wall", "Security Display Case", "Lighting Fixture",
+      "Touchscreen Guide Console", "Thematic Divider Panel", "Label Holder", "Specimen Jar Shelf", "Digital Kiosk",
+      "Wall Description Frame", "Archive Drawer", "Vaulted Showcase", "Temporary Display Panel", "Ceiling Projector",
+      "Map Stand", "Directional Signs", "Virtual Reality Booth", "Interactive Table", "Other"
+    ]
+  },
+  "14. Wellness & Fitness": {
+    "Spa": [
+      "Massage Table", "Towel Cabinet", "Aromatherapy Shelf", "Essential Oil Rack", "Relaxation Lounge Chair",
+      "Hot Stone Stand", "Foot Basin Station", "Candle Shelf", "Music Console", "Ambient Lighting Box",
+      "Reception Counter", "Changing Bench", "Product Display Unit", "Storage Basket", "Curtain Divider",
+      "Bamboo Divider", "Mirror Panel", "Sanitization Shelf", "Locker Cubby", "Other"
+    ],
+    "Gym": [
+      "Treadmill Stand", "Weight Rack", "Bench Press Stand", "Mirror Wall", "Equipment Organizer",
+      "Exercise Mat Rack", "Water Dispenser Cabinet", "Sound Console", "Television Wall Mount", "Storage Locker",
+      "Trainer Desk", "Kettlebell Rack", "Medicine Ball Stand", "Cardio Console", "Adjustable Bench",
+      "Wall-mounted Pull-up Bar", "Ballet Barre", "Punching Bag Hook", "Shoe Rack", "Other"
+    ]
+  },
+  "15. Education": {
+    "Library": [
+      "Reading Table", "Book Shelf", "Magazine Rack", "Computer Desk", "Information Kiosk",
+      "Study Cubicle", "Group Study Table", "Quiet Room Divider", "Reception Counter", "Chair Mat",
+      "Book Return Shelf", "Reading Lamp", "Charging Hub", "Notice Board", "Return Slot Cabinet",
+      "Whiteboard", "Pin Board", "New Arrivals Shelf", "Archives Drawer", "Other"
+    ],
+    "Classroom": [
+      "Student Desk", "Teacher Table", "Whiteboard", "Cabinet", "Chair",
+      "Bookshelf", "Class Divider", "Audio Console", "TV Stand", "Display Chart Board",
+      "Stationery Rack", "Cubbies", "Smartboard Console", "Notice Pin Board", "Laptop Shelf",
+      "Storage Box", "Charging Cabinet", "Reading Nook Unit", "Activity Table", "Other"
+    ]
+  },
+  "16. Events & Conference": { 
+    "Banquet Hall": [
+      "Round Table", "Chiavari Chair", "Stage Platform", "Podium", "Buffet Table", "Backdrop Frame", "Lighting Rig", "AV Console", "Projector Screen", "Dance Floor", "Bar Counter", "Curtains", "Photo Booth Stand", "Registration Desk", "Coat Rack", "Decor Table", "Flower Stand", "Seating Signage", "Drink Dispenser Stand", "Other"
+  ], 
+  "Conference Room": [ "Conference Table", "Executive Chair", "Microphone Stand", "Presentation Screen", "Whiteboard", "Laser Pointer Console", "Meeting Pod", "Breakout Table", "Modular Divider", "Speaker Stand", "Remote Control Podium", "Flip Chart Holder", "Monitor Console", "Charging Station", "Snack Shelf", "Clock", "Curtains", "Note Pad Shelf", "Signage Board", "Other" 
+  ]
+  }, 
+  "17. Religious & Spiritual": { 
+    "Church": [ 
+      "Pulpit", "Pews", "Choir Stand", "Communion Table", "Altar Table", "Offering Box", "Flower Stand", "Cross Frame", "Prayer Board", "Confession Booth", "Sound Console", "Lighting Fixture", "Bible Holder", "Curtains", "Reading Stand", "Baptismal Font", "Wall Art", "Organ Bench", "Display Cabinet", "Other"
+  ], 
+  "Mosque": [
+    "Prayer Rug Holder", "Shoe Rack", "Quran Shelf", "Minbar Stand", "Wudu Bench", "Notice Board", "Donation Box", "Curtains", "Prayer Time Display", "Prayer Mat Organizer", "Speaker Stand", "Lighting Console", "Wall Clock", "Partition Divider", "Book Stand", "Fan Unit", "Chair", "Table", "Mirror Frame", "Other"
+  ] 
+  },
+  "18. Hospitality": { 
+    "Hotel Room": [
+      "Bed Frame", "Headboard", "Nightstand", "Desk", "Luggage Stand", "Curtains", "Mirror", "Wardrobe", "Sofa", "TV Cabinet", "Mini Bar Cabinet", "Table Lamp", "Coffee Table", "Wall Art", "Closet Organizer", "Chair", "Waste Bin", "Shoe Rack", "Wall Light Fixture", "Other" 
+  ],
+  "Lobby": [
+    "Reception Counter", "Waiting Sofa", "Coffee Table", "Magazine Rack", "Information Board", "Decorative Plants", "Wall Clock", "Lighting Fixture", "Visitor Book Shelf", "Umbrella Stand", "Signage Stand", "Queue Barrier", "Art Piece Mount", "Announcement Display", "Rug", "Brochure Holder", "Curtains", "TV Stand", "Fan Unit", "Other" 
+  ]
+  },
+  "19. Emergency Services": { 
+    "Fire Station": [ 
+      "Locker Unit", "Helmet Rack", "Boot Tray", "Hose Reel Stand", "First Aid Shelf", "Alarm Console", "Work Table", "Radio Stand", "Wall Hooks", "Document Rack", "Trophy Cabinet", "Display Frame", "Curtain Divider", "Coat Hanger", "Tool Cabinet", "Safety Chart Board", "Cabinet", "Clock", "Mirror", "Other" 
+  ], 
+  "Police Station": [ 
+    "Desk", "Filing Cabinet", "Interrogation Table", "Waiting Bench", "Evidence Locker", "Mugshot Board", "Badge Display Rack", "Sound System", "Curtains", "Stationary Cabinet", "Bulletin Board", "Reception Counter", "Wall Clock", "Visitor Sign-in Shelf", "Notice Display", "Safe Box Stand", "Lighting Fixture", "Document Shelf", "Fan", "Other" 
+  ]
+  },
+  "20. Creative Studios": { 
+    "Art Studio": [ 
+      "Easel Stand", "Canvas Shelf", "Paint Cabinet", "Brush Holder", "Palette Rack", "Work Table", "Display Wall", "Storage Bins", "Sculpture Stand", "Light Fixture", "Drying Rack", "Apron Hanger", "Mirror", "Stool", "Cabinet", "Shelf Unit", "Curtains", "Clock", "Table Organizer", "Other" 
+  ],
+  "Photography Studio": [ 
+    "Backdrop Stand", "Lighting Tripod", "Softbox Mount", "Camera Shelf", "Lens Rack", "Model Stool", "Makeup Table", "Clothing Rack", "Fan Unit", "Power Strip Console", "Photo Frame Display", "Curtains", "Monitor Stand", "Printer Cabinet", "Flash Stand", "Editing Desk", "Chair", "Clock", "Decor Panel", "Other"
+  ]
+  },
+  "21. Commercial Spaces": {
+    "Corporate Office": [
+      "Executive Desk", "Workstation", "Conference Table", "Cubicle Partition", "File Cabinet",
+      "Reception Counter", "Visitor Sofa", "Coffee Table", "Wall Art", "Bookshelf",
+      "Smartboard", "Whiteboard", "Storage Cabinet", "Display Screen", "Planter Box",
+      "Curtains", "Meeting Pod", "Clock", "Brochure Stand", "Other"
+    ],
+    "Retail Store": [
+      "Checkout Counter", "Display Rack", "Wall Shelf", "Mannequin Stand", "Mirror Frame",
+      "Product Table", "Price Tag Holder", "Shopping Basket Stand", "Lighting Fixture", "Clothing Rack",
+      "Curtains", "Promo Stand", "Reception Desk", "Speaker Console", "Digital Display",
+      "Brochure Rack", "Bag Dispenser", "Queue Barrier", "Clock", "Other"
+    ]
+  },
+  "22. Dining & Beverage": {
+    "Restaurant": [
+      "Dining Table", "Dining Chair", "Service Station", "Menu Display Stand", "Buffet Counter",
+      "Lighting Pendant", "Wall Art", "Booth Seating", "Cutlery Stand", "Napkin Holder",
+      "Condiment Rack", "Serving Cart", "High Chair", "Bar Counter", "Table Number Holder",
+      "Curtains", "Fan Unit", "TV Stand", "Plant Shelf", "Other"
+    ],
+    "Café": [
+      "Coffee Table", "Sofa Chair", "Pastry Display", "Self-service Counter", "Sugar Stand",
+      "Book Shelf", "Reading Lamp", "Order Number Holder", "Menu Board", "Cashier Station",
+      "Wi-Fi Router Shelf", "Lighting Fixture", "Magazine Rack", "Curtains", "Plant Stand",
+      "Music Console", "Clock", "Decor Panel", "Chalkboard Menu", "Other"
+    ]
+  },
+  "23. Co-working & Startups": {
+  "Open Workspace": [
+    "Hot Desk", "Standing Desk", "Laptop Dock", "Modular Chair", "Cable Organizer",
+    "Whiteboard", "Idea Board", "Phone Booth", "Coffee Counter", "Storage Locker",
+    "Printer Cabinet", "Green Divider", "Power Station", "Task Lighting", "Noise Panel",
+    "Work Lounge Sofa", "Wall Clock", "Team Pod Table", "Curtains", "Other"
+  ],
+  "Startup Hub": [
+    "High Table", "Bean Bag", "Charging Wall", "Monitor Station", "Event Stage",
+    "Foldable Desk", "Idea Showcase Stand", "Coffee Table", "Pitch Presentation Stand", "Networking Lounge Sofa",
+    "Laptop Shelf", "Meeting Pod", "Signage Frame", "Standing Whiteboard", "Curtains",
+    "Innovation Wall Display", "Goal Tracker Board", "Storage Shelf", "Light Fixture", "Other"
+  ]
+},
+"24. Film & Production": {
+  "Film Set": [
+    "Prop Table", "Camera Rig Stand", "Green Screen Frame", "Director’s Chair", "Lighting Tree",
+    "Sound Mixer Desk", "Backdrop Roller", "Scene Marker Rack", "Actor Podium", "Makeup Vanity",
+    "C-Stand Rack", "Monitor Shelf", "Costume Rack", "Script Table", "Fog Machine Box",
+    "Power Console", "Storage Chest", "Wall Panel", "Curtains", "Other"
+  ],
+  "Recording Studio": [
+    "Audio Mixer Console", "Soundproof Wall", "Microphone Boom Stand", "Instrument Rack", "Producer Desk",
+    "Monitor Mount", "Patch Bay Rack", "Recording Booth Table", "Control Room Chair", "Cable Organizer",
+    "Lighting Unit", "Headphone Stand", "Sound Diffuser", "Clock", "Curtains",
+    "Acoustic Panels", "Storage Drawer", "CD Shelf", "Backup Drive Cabinet", "Other"
+  ]
+},
+"25. Childcare & Play": {
+  "Daycare": [
+    "Nap Cot", "Feeding Chair", "Play Mat", "Bookshelf", "Toy Storage",
+    "Baby Swing Stand", "Rocking Chair", "Child Table", "Puzzle Shelf", "Art Corner Desk",
+    "Sensory Wall", "Crib", "Diaper Shelf", "Curtains", "Soft Rug",
+    "Wall Stickers", "Bottle Rack", "Parent Info Board", "Safety Fence", "Other"
+  ],
+  "Playground": [
+    "Slide Tower", "Swing Frame", "Monkey Bars", "Climbing Net", "Sandbox Bench",
+    "Balance Beam", "See-saw", "Play Tunnel", "Water Table Stand", "Bike Rack",
+    "Game Board Stand", "Weather Station", "Fence Panel", "Shoe Rack", "Parent Seating Bench",
+    "Toy Shed", "Art Display Board", "Lighting Pole", "Plant Box", "Other"
+  ]
+},
+"26. Fashion & Apparel": {
+  "Tailoring Shop": [
+    "Cutting Table", "Sewing Machine Stand", "Fabric Roll Rack", "Mannequin Stand", "Ironing Board",
+    "Mirror Frame", "Fitting Area Curtain", "Storage Drawer", "Thread Shelf", "Pattern Table",
+    "Accessories Box", "Hanger Rack", "Work Light", "Needle Organizer", "Scissor Hanger",
+    "Sketch Table", "Pin Cushion Shelf", "Clock", "Wall Hooks", "Other"
+  ],
+  "Boutique": [
+    "Display Rack", "Dress Hanger Frame", "Changing Room Divider", "Shoe Display Shelf", "Accessory Table",
+    "Lighting Fixture", "Sales Counter", "Mirror", "Curtains", "Wall Art",
+    "Hat Stand", "Jewelry Case", "Bags Display", "Checkout Stand", "Shelf Ladder",
+    "Plant Decor", "Seating Bench", "Curtains", "Clock", "Other"
+  ]
+},
+"27. Tech & Electronics": {
+  "Tech Lab": [
+    "Workbench", "Server Rack", "Circuit Board Shelf", "Tool Panel", "Anti-static Mat Table",
+    "Wire Cabinet", "Fan Mount", "Power Strip Stand", "Magnifier Arm Lamp", "Test Station Desk",
+    "Monitor Rack", "Oscilloscope Stand", "Tool Chest", "Component Storage Box", "Tech Book Shelf",
+    "Temperature Display", "Projector Stand", "VR Unit Dock", "Charging Shelf", "Other"
+  ],
+  "Retail Electronics": [
+    "Phone Display Stand", "Laptop Shelf", "TV Wall", "Accessory Rack", "Charging Station",
+    "Demo Table", "Cash Counter", "Speaker Stand", "LED Lighting", "Mirror",
+    "CCTV Console", "Curtains", "Wall Art", "Service Table", "Mounting Panel",
+    "Product Box Shelf", "Price Tag Holder", "Wall Clock", "Promotional Display", "Other"
+  ]
+},
+"28. Music & Instruments": {
+  "Music Shop": [
+    "Guitar Rack", "Piano Stand", "Drum Display", "Amplifier Shelf", "Accessories Cabinet",
+    "Sound Check Desk", "Vinyl Shelf", "CD Stand", "Music Sheet Holder", "Cash Counter",
+    "Demo Stage", "Lighting Fixture", "Curtains", "Mirror", "Wall Hooks",
+    "Tuner Shelf", "Product Info Board", "Wall Art", "Rug", "Other"
+  ],
+  "Practice Room": [
+    "Keyboard Stand", "Note Stand", "Metronome Shelf", "Stool", "Curtains",
+    "Speaker Mount", "Mic Stand", "Clock", "Wall Foam Panel", "Chair",
+    "Whiteboard", "Song Chart Rack", "Cable Organizer", "Storage Bin", "Guitar Hanger",
+    "Music Light", "Recording Mic Frame", "Window Cover", "Vent Shelf", "Other"
+  ]
+},
+"29. Pet & Animal Care": {
+  "Veterinary Clinic": [
+    "Examination Table", "Pet Cage Stand", "IV Pole", "Medicine Cabinet", "Reception Counter",
+    "Waiting Bench", "File Cabinet", "Scale Unit", "Display Rack", "Clock",
+    "Lighting Fixture", "Curtains", "Dispenser Shelf", "Soap Holder", "Notice Board",
+    "Wall Hooks", "Trash Bin", "Fan", "Hand Sanitizer Shelf", "Other"
+  ],
+  "Pet Shop": [
+    "Aquarium Stand", "Dog House Display", "Pet Toy Rack", "Treat Counter", "Leash Stand",
+    "Feeding Bowl Shelf", "Bird Cage Frame", "Check-out Desk", "Pet Bed Table", "Product Display Cabinet",
+    "Grooming Table", "Shoe Rack", "Curtains", "Wall Art", "Price Tag Holder",
+    "Poster Board", "Promo Rack", "Storage Bin", "Floor Mat", "Other"
+  ]
+},
+"30. Logistics & Storage": {
+  "Warehouse": [
+    "Pallet Rack", "Forklift Charging Dock", "Loading Ramp Table", "Inventory Shelf", "Label Printer Stand",
+    "Storage Bin Rack", "Trolley Dock", "Packing Station", "Weighing Scale Console", "Fire Extinguisher Stand",
+    "Safety Signage", "First Aid Rack", "Curtains", "Wall Hooks", "Lighting Unit",
+    "Security Console", "Clock", "Packing Box Shelf", "Waste Bin", "Other"
+  ],
+  "Delivery Hub": [
+    "Sorting Table", "Dispatch Counter", "Parcel Bin Rack", "Tracking Screen Stand", "Sealing Machine Stand",
+    "Labeling Shelf", "Bike Parking Slot Frame", "Curtains", "Wall Clock", "Charging Station",
+    "Work Bench", "Queue Barrier", "Notice Display", "Storage Drawer", "Tool Cabinet",
+    "Power Strip Stand", "Rain Gear Shelf", "Shelf Label Frame", "Bag Rack", "Other"
+  ]
+},
+  "31. Aviation & Airports": {
+    "Passenger Terminal": [
+      "Check-in Counter", "Baggage Drop Stand", "Security Tray Shelf", "Boarding Gate Desk", "Information Kiosk",
+      "Self Check-in Machine", "Luggage Rack", "Flight Display Console", "Seating Bench", "Charging Station",
+      "Wi-Fi Console", "ATM Booth", "Rest Area Pod", "Duty-Free Display", "Wall Clock",
+      "Curtains", "Lost & Found Counter", "Signage Frame", "Trash Bin", "Other"
+    ],
+    "Control Tower": [
+      "Radar Console", "Flight Tracker Display", "Communications Rack", "Controller Desk", "Headset Rack",
+      "Map Board", "Supervisor Podium", "Emergency Radio Stand", "Wall Chart", "Curtains",
+      "Data Logger Cabinet", "Fire Extinguisher Stand", "Clock", "Monitor Mount", "Cable Organizer",
+      "Power Backup Unit", "Lighting Fixture", "Weather Station Panel", "File Rack", "Other"
+    ]
+  },
+  "32. Marine & Ports": {
+    "Harbor Office": [
+      "Navigation Chart Table", "Communication Console", "Docking Schedule Stand", "Life Jacket Rack", "Weather Monitor Shelf",
+      "Radio Stand", "Captain Desk", "Anchor Display", "Lighting Fixture", "Curtains",
+      "Wall Map", "Safety Signage", "Fire Hose Rack", "Document Drawer", "Clock",
+      "Storage Cabinet", "Seating Pod", "Trash Bin", "Tool Rack", "Other"
+    ],
+    "Dock Area": [
+      "Cargo Stand", "Mooring Equipment Rack", "Dock Light Pole", "Crate Trolley", "Safety Rail",
+      "Signage Board", "Buoy Stand", "Pallet Rack", "Work Table", "Rain Shelter Bench",
+      "Guard Station", "Rope Organizer", "Cleaning Equipment Holder", "Warning Lights", "Tool Cabinet",
+      "Clock", "Barrier Post", "Waste Bin", "Storage Container", "Other"
+    ]
+  },
+  "33. Retail & Markets": {
+    "Supermarket": [
+      "Checkout Counter", "Display Shelf", "Freezer Unit", "Basket Rack", "Trolley Bay",
+      "Price Tag Frame", "Fruit Stand", "Promo Board", "Curtains", "Mirror",
+      "Storage Bin", "Product Signage", "Lighting Fixture", "Sampling Table", "Waste Bin",
+      "Queue Divider", "Wall Clock", "Weighing Machine", "Discount Frame", "Other"
+    ],
+    "Open Market Stall": [
+      "Wooden Display Table", "Canopy Frame", "Crate Shelf", "Hanging Rack", "Cash Box Table",
+      "Price Card Holder", "Umbrella Stand", "Lighting Unit", "Storage Bench", "Wall Hooks",
+      "Curtains", "Fan Unit", "Sack Stand", "Trash Bin", "Poster Board",
+      "Bucket Shelf", "Bag Rack", "Display Frame", "Promo Flag", "Other"
+    ]
+  },
+  "34. Science & Research": {
+    "Research Lab": [
+      "Workstation Desk", "Reagent Shelf", "Microscope Table", "Data Logger Rack", "Chemical Storage Unit",
+      "Fume Hood", "Sink Unit", "Emergency Shower Stand", "Wall Poster", "Whiteboard",
+      "Monitor Shelf", "Computer Console", "Clock", "Curtains", "Fire Extinguisher Stand",
+      "Waste Disposal Unit", "Equipment Cabinet", "Cable Organizer", "Planter Box", "Other"
+    ],
+    "Observatory": [
+      "Telescope Mount", "Star Chart Board", "Instrument Table", "Viewing Chair", "Map Shelf",
+      "Red Light Fixture", "Curtains", "Clock", "Solar Panel Rack", "Display Monitor",
+      "Astro Image Frame", "Documentation Shelf", "Wall Chart", "Binocular Stand", "Data Entry Desk",
+      "Power Control Panel", "Fan", "Window Cover", "Visitor Bench", "Other"
+    ]
+  },
+  "35. Technology Services": {
+    "Data Center": [
+      "Server Rack", "Cooling Fan Console", "Cable Tray", "UPS Cabinet", "Access Console",
+      "Wall Monitor", "Control Desk", "Power Strip Rack", "Fire Alarm Stand", "Tool Kit Shelf",
+      "Curtains", "Clock", "Lighting Unit", "Storage Box", "Documentation Board",
+      "Air Conditioner Console", "Security Rack", "Smoke Detector Stand", "Cleaning Kit Shelf", "Other"
+    ],
+    "IT Support Room": [
+      "Help Desk", "Parts Storage Drawer", "Cable Organizer", "Charging Dock", "Monitor Stand",
+      "Keyboard Shelf", "Tool Cabinet", "Label Printer Table", "Curtains", "Clock",
+      "Mouse Rack", "Display Wall", "Backup Drive Shelf", "Document Holder", "Trash Bin",
+      "File Rack", "Task Light", "Fan", "Surge Protector Stand", "Other"
+    ]
+  },
+  "36. Finance & Banking": {
+    "Bank Branch": [
+      "Teller Counter", "Queue Barrier", "ATM Enclosure", "Customer Chair", "Form Shelf",
+      "Notice Board", "Lighting Fixture", "Curtains", "Security Camera Mount", "Brochure Rack",
+      "Service Desk", "Clock", "Deposit Box Stand", "Card Reader Stand", "Document Cabinet",
+      "Signage Frame", "Trash Bin", "Coin Tray", "Feedback Box", "Other"
+    ],
+    "Currency Vault": [
+      "Vault Rack", "Money Counter Table", "Surveillance Desk", "Access Control Panel", "Note Organizer",
+      "Safe Box Frame", "Counting Machine Stand", "Document Holder", "Clock", "Curtains",
+      "Chair", "Power Backup Unit", "Lighting Unit", "Security Tools Cabinet", "Record Log Shelf",
+      "Camera Console", "Bulletproof Shield Stand", "Alarm Panel", "Storage Bin", "Other"
+    ]
+  },
+  "37. Healthcare & Medical": {
+    "Hospital Ward": [
+      "Patient Bed", "IV Stand", "Bedside Cabinet", "Curtains", "Nurse Station Desk",
+      "Wheelchair Rack", "Oxygen Cylinder Stand", "Emergency Call Unit", "Trash Bin", "Clock",
+      "Lighting Fixture", "Visitor Chair", "Wall Board", "Monitor Shelf", "Fan",
+      "Medical Equipment Console", "Curtain Divider", "Storage Box", "PPE Shelf", "Other"
+    ],
+    "Clinic Room": [
+      "Examination Table", "Doctor’s Desk", "File Cabinet", "Sink Unit", "Medical Chart Stand",
+      "Lighting Fixture", "Curtains", "Diagnostic Tools Rack", "Prescription Shelf", "Clock",
+      "Chair", "Sanitizer Station", "Display Wall", "Bin", "Cabinet",
+      "Medicine Drawer", "Patient Monitor Table", "Sharps Container Rack", "Hand Glove Holder", "Other"
+    ]
+  },
+  "38. Civic & Social Services": {
+    "Community Hall": [
+      "Stage Platform", "Speaker Podium", "Seating Bench", "Curtains", "Lighting Console",
+      "Notice Board", "Wall Art", "Display Rack", "Clock", "Projector Stand",
+      "PA System Cabinet", "Art Display Panel", "Water Dispenser Stand", "Entry Table", "Decor Frame",
+      "Hand Sanitizer Station", "Trash Bin", "Queue Barrier", "Storage Drawer", "Other"
+    ],
+    "Municipal Office": [
+      "Service Desk", "Reception Counter", "Filing Cabinet", "Printer Stand", "Clock",
+      "Curtains", "Signage Holder", "Customer Seat", "Notice Display", "Brochure Rack",
+      "Document Box", "Scanner Shelf", "Feedback Table", "Information Stand", "Waste Bin",
+      "Cable Organizer", "Lighting Unit", "Air Freshener Shelf", "Flag Stand", "Other"
+    ]
+  },
+  "39. Legal & Judiciary": {
+    "Courtroom": [
+      "Judge’s Bench", "Witness Stand", "Defense Table", "Prosecutor Table", "Court Clerk Desk",
+      "Spectator Bench", "Curtains", "Lighting Fixture", "Wall Clock", "Evidence Shelf",
+      "Document Organizer", "Whiteboard", "Monitor Stand", "Security Console", "Audio Recorder Rack",
+      "Podium", "Name Plate Frame", "Storage Drawer", "Sound Console", "Other"
+    ],
+    "Law Office": [
+      "Lawyer’s Desk", "Filing Cabinet", "Client Chair", "Legal Book Shelf", "Curtains",
+      "Clock", "Document Tray", "Reference Book Stand", "Lighting Unit", "Printer Cabinet",
+      "Meeting Table", "Coffee Table", "Name Board", "Trash Bin", "Display Wall",
+      "Case Archive Shelf", "Signage Frame", "Monitor Mount", "Reception Stand", "Other"
+    ]
+  },
+  "40. Military & Security": {
+    "Barracks": [
+      "Bunk Bed", "Foot Locker", "Curtains", "Wall Hooks", "Cabinet",
+      "Training Board", "Notice Frame", "Shoe Rack", "Lighting Unit", "Clock",
+      "Weapon Locker", "Chair", "Storage Bin", "Document Shelf", "Fan",
+      "Curtain Divider", "Radio Stand", "Mirror", "Waste Bin", "Other"
+    ],
+    "Command Center": [
+      "Control Console", "Radar Screen Stand", "Communication Panel", "Mission Table", "Curtains",
+      "Whiteboard", "Wall Chart", "Clock", "Surveillance Console", "Chair",
+      "Projector Screen", "Power Rack", "Tactical Map Frame", "Radio Stand", "Document Tray",
+      "Lighting Fixture", "Name Plate Holder", "Storage Drawer", "Plan Holder", "Other"
+    ]
+  },
+  "41. Veterinary & Pet Care": {
+    "Veterinary Clinic": [
+      "Examination Table", "Animal Scale", "Kennel Unit", "Waiting Bench", "Reception Counter",
+      "Display Shelf", "Medication Cabinet", "X-ray Viewing Box", "Sink Unit", "Waste Bin",
+      "Wall Clock", "Leash Hook", "Medical Record Shelf", "Curtains", "Sterilization Rack",
+      "Vaccination Poster Board", "Cat Tree Stand", "Pet Carrier Shelf", "Cleaning Station", "Other"
+    ],
+    "Pet Grooming Salon": [
+      "Grooming Table", "Pet Bath Tub", "Hair Dryer Stand", "Towel Cabinet", "Product Display Shelf",
+      "Pet Waiting Area Bench", "Mirror Wall", "Brush Rack", "Apron Hook", "Water Spray Stand",
+      "Pet Treat Shelf", "Trash Bin", "Decorative Wall Art", "Fan Unit", "Lighting Fixture",
+      "Curtains", "Clock", "Sound Console", "Storage Drawer", "Other"
+    ]
+  },
+  "42. Wildlife Conservation": {
+    "Safari Lodge": [
+      "Lounge Sofa", "Animal Print Rug", "Observation Deck Bench", "Binocular Stand", "Map Display Shelf",
+      "Field Guide Rack", "Lighting Console", "Curtains", "Souvenir Shelf", "Reception Counter",
+      "Photo Display Wall", "Fireplace Seat", "Drinks Cabinet", "Fan Unit", "Table Lamp",
+      "Cultural Decor Panel", "Seating Cushions", "Charging Station", "Waste Bin", "Other"
+    ],
+    "Research Station": [
+      "Microscope Table", "Lab Cabinet", "Specimen Storage Rack", "Data Console", "Work Desk",
+      "Equipment Shelf", "Radio Stand", "First Aid Box", "Weather Station Panel", "Curtains",
+      "Wall Clock", "Monitor Shelf", "Documentation Board", "Sample Freezer Stand", "Printer Stand",
+      "Field Gear Hook", "Charging Strip", "Storage Drawer", "Laptop Table", "Other"
+    ]
+  },
+  "43. Aquatic & Marine": {
+    "Aquarium": [
+      "Tank Stand", "Filter Equipment Cabinet", "Lighting Panel", "Seating Bench", "Ticket Counter",
+      "Display Map Wall", "Educational Info Board", "Sound Console", "Fish Food Rack", "Maintenance Tools Shelf",
+      "Cleaning Gear Cabinet", "Photo Booth", "Interactive Screen", "Souvenir Shop Stand", "Trash Bin",
+      "Decorative Coral Panel", "Water Quality Console", "Curtains", "Clock", "Other"
+    ],
+    "Marine Lab": [
+      "Seawater Sample Rack", "Microscope Stand", "Work Table", "Cabinet", "Data Recording Console",
+      "Marine Species Display", "Wall Map", "Lighting Box", "Airflow Vent Shelf", "Storage Bin",
+      "Research Desk", "Specimen Jar Rack", "Wetsuit Hook", "Emergency Kit Cabinet", "Signage Board",
+      "Charging Station", "Computer Desk", "Curtains", "Fan Unit", "Other"
+    ]
+  },
+  "44. Mining & Geology": {
+    "Mine Office": [
+      "Work Desk", "Helmet Rack", "Storage Locker", "Map Display Board", "Sample Shelf",
+      "Safety Instruction Board", "Communication Console", "Curtains", "Fan Unit", "Chair",
+      "First Aid Box", "Wall Clock", "Document Shelf", "Projector Stand", "Printer Cabinet",
+      "Lighting Fixture", "Protective Gear Hook", "Drawing Table", "Waste Bin", "Other"
+    ],
+    "Geology Lab": [
+      "Rock Sample Rack", "Microscope Table", "Cabinet", "Cutting Station Table", "Magnifying Lamp",
+      "Chemical Storage Rack", "Sample Tag Board", "Curtains", "Safety Cabinet", "Geological Map Wall",
+      "Tool Holder", "Fume Hood Console", "Laptop Table", "Photo Board", "Specimen Jar Shelf",
+      "Work Stool", "Monitor Shelf", "Clock", "Protective Rack", "Other"
+    ]
+  },
+  "45. Humanitarian Centers": {
+    "Relief Distribution Center": [
+      "Storage Rack", "Donation Table", "Queue Divider", "Food Packaging Bench", "Registration Counter",
+      "Medical Aid Stand", "Volunteer Table", "Display Board", "Safety Poster", "Curtains",
+      "Information Signage", "Donation Box", "Shoe Rack", "Clock", "Waste Bin",
+      "Lighting Fixture", "Plastic Bag Shelf", "Hand Sanitizer Station", "Seating Bench", "Other"
+    ],
+    "Refugee Camp Office": [
+      "Filing Cabinet", "Desk", "Chair", "Information Board", "Aid Record Shelf",
+      "Communication Console", "Food Token Cabinet", "Curtains", "Wall Fan", "Map Display Wall",
+      "Bed Frame Display", "Blanket Stand", "Medical Kit Shelf", "Lighting Unit", "Signage Panel",
+      "Queue Pole Stand", "Laptop Table", "Document Drawer", "Charging Console", "Other"
+    ]
+  },
+  "46. Archaeology": {
+    "Excavation Site Office": [
+      "Filing Desk", "Sample Tray", "Tool Rack", "Bone Fragment Box", "Map Wall",
+      "Curtains", "Lighting Stand", "Field Camera Shelf", "Measuring Pole Rack", "Protective Gear Stand",
+      "Shade Umbrella Stand", "Documentation Panel", "Sign Board", "Laptop Table", "Storage Bin",
+      "Cabinet", "Fan Unit", "Artifact Tag Rack", "Safety Poster", "Other"
+    ],
+    "Museum Lab": [
+      "Preservation Table", "Cleaning Tools Cabinet", "UV Light Console", "Protective Glass Box", "Documentation Shelf",
+      "Specimen Drawers", "Lighting Fixture", "Artifact Display Frame", "Security Rack", "Research Desk",
+      "Microscope Stand", "Wall Clock", "Photography Station", "Laptop Desk", "Chemical Storage Rack",
+      "Airflow Cabinet", "Tool Holder", "Fan Unit", "Curtains", "Other"
+    ]
+  },
+  "47. Call Centers": {
+    "Customer Support Bay": [
+      "Cubicle Desk", "Headset Rack", "Monitor Stand", "Keyboard Tray", "Phone Console",
+      "Chair", "Storage Drawer", "Curtains", "Clock", "Lighting Fixture",
+      "Call Timer Display", "AC Unit Cabinet", "Whiteboard", "Sign Board", "Charging Port",
+      "Complaint Box", "Water Bottle Shelf", "Waste Bin", "Document Organizer", "Other"
+    ],
+    "Break Room": [
+      "Coffee Table", "Snack Rack", "Vending Machine Cabinet", "Microwave Shelf", "Fridge Stand",
+      "Magazine Rack", "Wall Clock", "Curtains", "Chair", "Fan Unit",
+      "Water Dispenser", "Napkin Stand", "Trash Bin", "Notice Board", "Shoe Rack",
+      "Locker Unit", "Charging Socket Shelf", "Lighting Fixture", "Mirror", "Other"
+    ]
+  },
+  "48. Warehouse & Logistics": {
+    "Warehouse Floor": [
+      "Pallet Rack", "Storage Bin", "Packing Table", "Label Printer Station", "Forklift Dock",
+      "Loading Ramp Console", "Safety Poster Board", "Wall Clock", "Security Camera Stand", "Scanner Shelf",
+      "Fire Extinguisher Cabinet", "Curtains", "Packaging Tools Rack", "Weighing Scale Table", "Trolley Parking Bay",
+      "Signage Board", "Lighting Panel", "Cardboard Bin", "Receipt Box", "Other"
+    ],
+    "Dispatch Bay": [
+      "Label Cabinet", "Goods Receipt Counter", "Dispatch Trolley Rack", "Waybill Holder", "Monitor Stand",
+      "Clock", "Curtains", "Invoice Tray", "Laptop Table", "Loading Zone Sign",
+      "Protective Gear Shelf", "Hand Truck Bay", "Scanner Station", "Packaging Stand", "Fire Alarm Console",
+      "Barrier Divider", "Chair", "Storage Drawer", "Tracking Device Console", "Other"
+    ]
+  },
+  "49. Drone & Robotics Centers": {
+    "Drone Lab": [
+      "Charging Dock", "Work Table", "Assembly Stand", "Battery Rack", "Remote Console",
+      "Flight Simulation Monitor", "Curtains", "Spare Parts Cabinet", "Tool Organizer", "Display Board",
+      "Data Transfer Console", "Wiring Shelf", "Storage Box", "Test Stand", "Lighting Console",
+      "Clock", "Chair", "Protective Glass Box", "Emergency Kit Stand", "Other"
+    ],
+    "Robotics Assembly Room": [
+      "Robot Frame Stand", "Motor Rack", "Sensor Shelf", "Control Unit Table", "Soldering Station",
+      "Curtains", "Cable Management Box", "Lighting Fixture", "Tool Rack", "Work Stool",
+      "Wiring Board", "Programming Console", "Microcontroller Shelf", "Test Track Area", "Display Frame",
+      "Fan Unit", "Power Strip Console", "Clock", "Laptop Desk", "Other"
+    ]
+  },
+  "50. Social Centers": {
+    "Community Hall": [
+      "Reception Table", "Folding Chairs", "Multi-purpose Table", "Wall Fan", "Curtains",
+      "Storage Cabinet", "Speaker Stand", "Projector Screen", "Mic Stand", "Lighting Console",
+      "Stage Platform", "Display Shelf", "Notice Board", "Art Wall", "Fan Unit",
+      "Water Dispenser", "Waste Bin", "Clock", "Seating Mat Rack", "Other"
+    ],
+    "Youth Center": [
+      "Game Console Stand", "Music Rack", "Craft Table", "Book Shelf", "Stage Area Mat",
+      "Curtains", "Lighting Panel", "Sound Console", "Wall Chart Board", "Sports Gear Cabinet",
+      "Seating Cushions", "Charging Station", "Snack Table", "Whiteboard", "Computer Desk",
+      "Poster Board", "Fan", "Clock", "Decor Panel", "Other"
+    ]
+  },
+  "51. Emergency Shelters": {
+    "Disaster Relief Tent": [
+      "Cots", "Storage Rack", "Lighting Kit", "Blanket Shelf", "First Aid Stand",
+      "Water Container Shelf", "Privacy Divider", "Document Cabinet", "Emergency Radio Stand", "Tool Kit Cabinet",
+      "Portable Fan", "Waste Bin", "Sanitation Station", "Curtains", "Chair",
+      "Food Supplies Cabinet", "Bed Frame", "Handwashing Sink Stand", "Clothes Hanger", "Other"
+    ],
+    "Refugee Camp Shelter": [
+      "Sleeping Mat Rack", "Water Dispenser Table", "Storage Locker", "Food Shelf", "Document Safe",
+      "Mobile Charging Station", "Lighting Fixture", "Curtain Divider", "Bed Frame", "Medical Supply Shelf",
+      "Volunteer Desk", "Fan Unit", "Mosquito Net Rack", "Hygiene Kit Box", "Curtains",
+      "Foldable Chair", "Notice Board", "Stationery Box", "Clock", "Other"
+    ]
+  },
+  "52. Border & Customs": {
+    "Immigration Office": [
+      "Reception Desk", "Fingerprint Scanner Stand", "Waiting Bench", "Document Shelf", "Passport Holder Rack",
+      "ID Verification Counter", "Cabinet", "Signage Board", "Lighting Fixture", "Curtains",
+      "Barrier Queue Stand", "Security Camera Mount", "Monitor Desk", "Visitor Registration Table", "Stamp Rack",
+      "Trash Bin", "Ventilation Unit", "Notice Display", "Clock", "Other"
+    ],
+    "Customs Warehouse": [
+      "Pallet Shelf", "Forklift Charging Dock", "Goods Inspection Table", "Document Rack", "Packaging Station",
+      "Storage Bins", "Weight Scale Table", "Security Console", "Lighting Fixture", "Curtains",
+      "Labeling Shelf", "Inventory Counter", "Wall Clock", "Signage Board", "Forklift Parking Slot",
+      "Office Desk", "Barcode Scanner Stand", "Ventilation Fan", "Hazard Sign Stand", "Other"
+    ]
+  },
+  "53. Space & Aviation": {
+    "Airport Lounge": [
+      "Seating Pod", "Coffee Table", "Charging Hub", "Information Display", "Reception Desk",
+      "Brochure Stand", "Lighting Fixture", "Snack Shelf", "Entertainment Console", "Curtains",
+      "TV Stand", "Reading Lamp", "Magazine Rack", "Art Display Shelf", "Wall Clock",
+      "Cushioned Bench", "Wi-Fi Terminal Stand", "Queue Divider", "Air Conditioner Console", "Other"
+    ],
+    "Space Research Lab": [
+      "Work Console", "Tool Shelf", "Equipment Stand", "Lab Cabinet", "Storage Unit",
+      "Whiteboard", "Testing Bench", "Satellite Model Holder", "Helmet Rack", "Monitor Console",
+      "Sample Container Shelf", "Air Lock Equipment Stand", "Control Panel Frame", "Curtains", "Chair",
+      "Signage Display", "Lighting Fixture", "Laptop Desk", "Ventilation Unit", "Other"
+    ]
+  },
+  "54. Government Institutions": {
+    "Parliament Office": [
+      "Debate Table", "Microphone Stand", "MP Desk", "Voting Booth", "Announcement Console",
+      "Document Cabinet", "Curtains", "Wall Clock", "PA System Stand", "Reception Counter",
+      "Security Monitor Desk", "File Shelf", "Lighting Unit", "Breakout Pod", "Stationery Drawer",
+      "Record Archive", "Podium", "Waiting Sofa", "Badge Display Case", "Other"
+    ],
+    "Judicial Courtroom": [
+      "Judge Bench", "Witness Stand", "Defendant Desk", "Court Clerk Station", "Jury Box",
+      "Public Gallery Bench", "Evidence Cabinet", "Record Table", "Lighting Fixture", "Curtains",
+      "Document Rack", "Case File Stand", "Law Library Shelf", "Security Console", "Clock",
+      "Whiteboard", "PA System Console", "Flag Stand", "Ventilation Unit", "Other"
+    ]
+  },
+  "55. Publishing & Media": {
+    "Newsroom": [
+      "Anchor Desk", "Teleprompter Stand", "Monitor Console", "Writer Desk", "Camera Rack",
+      "Lighting Grid Mount", "Editing Station", "Sound Booth", "Curtains", "Broadcast Console",
+      "Recording Booth", "Interview Sofa", "Mic Stand", "Green Screen Rack", "Script Shelf",
+      "Wi-Fi Console", "Printer Stand", "Wall Clock", "Signage Board", "Other"
+    ],
+    "Publishing Office": [
+      "Manuscript Cabinet", "Editing Table", "Book Rack", "Typesetting Console", "Magazine Display Shelf",
+      "Author’s Desk", "Lighting Fixture", "Curtains", "Filing Cabinet", "Wall Clock",
+      "Proofreading Stand", "Computer Desk", "Printer Rack", "Stationery Drawer", "Reception Counter",
+      "Notice Board", "Binding Shelf", "Review Table", "Bookshelf", "Other"
+    ]
+  },
+  "56. Community & Welfare": {
+    "Orphanage": [
+      "Bed Frame", "Toy Shelf", "Dining Table", "Study Table", "Storage Cabinet",
+      "Curtains", "Bookshelf", "Clothes Hanger", "Play Area Unit", "Display Board",
+      "Clock", "Mirror", "Wardrobe", "Shoe Rack", "First Aid Shelf",
+      "Lighting Fixture", "Waste Bin", "Reading Lamp", "Other"
+    ],
+    "Community Hall": [
+      "Meeting Table", "Seating Bench", "Curtains", "Stage Platform", "PA System Stand",
+      "Lighting Fixture", "Notice Board", "Reception Table", "Fan Unit", "Brochure Display",
+      "Wall Clock", "Event Sign Board", "Registration Counter", "Banner Stand", "Storage Cabinet",
+      "Sound Mixer Table", "Mic Stand", "Power Socket Shelf", "Display Rack", "Other"
+    ]
+  },
+  "57. Advertising & Branding": {
+    "Billboard Workshop": [
+      "Steel Frame Rack", "Lighting Console", "Poster Roll Shelf", "Cutting Table", "Paint Shelf",
+      "Tool Cabinet", "Power Strip Console", "Ladder Stand", "Vinyl Holder", "Graphics Table",
+      "Printing Stand", "Roller Rack", "Projector Console", "Laptop Desk", "Signage Panel Rack",
+      "Fan Unit", "Storage Bin", "Media Player Shelf", "Clock", "Other"
+    ],
+    "Brand Agency Office": [
+      "Design Table", "Inspiration Wall Frame", "Pitch Presentation Console", "Meeting Pod", "Coffee Table",
+      "Stationery Rack", "Lighting Fixture", "Curtains", "Product Display Shelf", "Mood Board Console",
+      "Art Panel", "Seating Pod", "Cabinet", "Brochure Rack", "Whiteboard",
+      "Idea Card Stand", "Printer Table", "Charging Station", "Fan", "Other"
+    ]
+  },
+  "58. Wildlife & Conservation": {
+    "Ranger Post": [
+      "Map Board", "Weapon Locker", "Binocular Rack", "Document Cabinet", "Sleeping Cot",
+      "Curtains", "Notice Board", "Log Entry Table", "Charging Station", "Radio Stand",
+      "PA System Console", "Fan Unit", "Shoe Rack", "Storage Box", "Water Container Shelf",
+      "Bed Frame", "Clock", "Lighting Fixture", "Wardrobe", "Other"
+    ],
+    "Conservation Lab": [
+      "Specimen Rack", "Microscope Table", "Chemical Shelf", "Research Workbench", "Animal DNA Cabinet",
+      "Whiteboard", "Display Freezer Console", "Storage Drawer", "Laptop Stand", "Curtains",
+      "Lighting Unit", "Data Entry Table", "Ventilation Fan", "Water Dispenser Stand", "Clock",
+      "Seating Stool", "Cabinet", "Signage Board", "Protective Gear Hook", "Other"
+    ]
+  },
+  "59. Design & Craftsmanship": {
+    "Wood Workshop": [
+      "Workbench", "Tool Rack", "Saw Table", "Vise Stand", "Cabinet",
+      "Curtains", "Shelving Unit", "Sanding Bench", "Storage Drawer", "Clock",
+      "Wood Storage Rack", "Planing Table", "Lighting Fixture", "Waste Bin", "Blueprint Shelf",
+      "Display Frame", "Fan", "Curtain Divider", "Mirror", "Other"
+    ],
+    "Metal Workshop": [
+      "Welding Table", "Tool Cabinet", "Gear Rack", "Curtains", "Hammer Rack",
+      "Vice Bench", "Fan Unit", "Shelving System", "Protective Gear Stand", "Lighting Console",
+      "Locker", "Scrap Bin", "Blueprint Display", "Clock", "Trolley Cart",
+      "Ventilation Stand", "Waste Container", "Mirror", "Storage Chest", "Other"
+    ]
+  },
+  "60. Transportation & Parking": {
+    "Parking Lot": [
+      "Ticket Dispenser", "Boom Gate Stand", "CCTV Pole Mount", "Lighting Post", "Direction Sign",
+      "Parking Meter Console", "Solar Light Stand", "Shelter Bench", "Trash Bin", "Notice Board",
+      "Car Charging Station", "Wheel Stopper", "Speed Bump Unit", "Guard Booth", "Queue Divider",
+      "First Aid Box Stand", "Fire Extinguisher Cabinet", "Clock", "Fan", "Other"
+    ],
+    "Taxi Bay": [
+      "Bench", "Roof Shade Frame", "Route Display Board", "Driver Notice Shelf", "Lighting Fixture",
+      "Curtains", "Timetable Panel", "Trash Bin", "Information Board", "Fan",
+      "Solar Light Post", "Barrier Stand", "Announcement Board", "Digital Clock", "Wi-Fi Router Shelf",
+      "Public Phone Stand", "Direction Map Console", "Queue Line Rail", "Mirror", "Other"
+    ]
+  },
+  "61. Disaster Relief & Temporary Shelters": {
+    "Emergency Tent": [
+      "Sleeping Cot", "Water Tank Stand", "Foldable Table", "Solar Light Fixture", "Medical Kit Shelf",
+      "Storage Chest", "Food Shelf", "Privacy Divider", "Hygiene Station", "Clothing Rack",
+      "Handwashing Basin", "Waste Bin", "Mosquito Net Frame", "Charging Dock", "Plastic Chair",
+      "Curtains", "Signage Board", "Notice Board", "Fan Unit", "Other"
+    ],
+    "Mobile Command Center": [
+      "Work Desk", "Communication Console", "Whiteboard", "Filing Cabinet", "First Aid Rack",
+      "Generator Stand", "Satellite Receiver Shelf", "Wall Monitor Mount", "Power Control Panel", "Storage Bin",
+      "Portable Chair", "Lighting Fixture", "Signboard", "Radio Rack", "Clock",
+      "Secure Locker", "Water Dispenser Stand", "Surge Protector Rack", "Laptop Table", "Other"
+    ]
+  },
+  "62. Film & Media Production": {
+    "Film Set": [
+      "Director Chair", "Camera Mount Stand", "Lighting Rig", "Backdrop Frame", "Makeup Station",
+      "Monitor Console", "Props Shelf", "Green Screen Rack", "Reflector Stand", "Editing Desk",
+      "Scene Clapper Holder", "Fan Unit", "Wardrobe Rack", "Sound Console", "Grip Tools Rack",
+      "Curtains", "Chroma Board", "Storage Drawer", "Boom Mic Arm Stand", "Other"
+    ],
+    "Editing Room": [
+      "Editing Desk", "Soundproof Panel", "Monitor Rack", "Sound Console", "Hard Drive Locker",
+      "Rolling Chair", "Light Fixture", "Cable Organizer Tray", "Whiteboard", "Pin Board",
+      "Clock", "Storage Cabinet", "Router Shelf", "Curtains", "Printer Stand",
+      "Wall Shelf", "Stationery Rack", "Speaker Mount", "UPS Shelf", "Other"
+    ]
+  },
+  "63. Cultural Centers": {
+    "Community Hall": [
+      "Stage Platform", "Chairs", "Stackable Tables", "Notice Board", "Display Wall",
+      "Art Display Unit", "Curtains", "PA System Rack", "Lighting Panel", "Book Shelf",
+      "Reception Table", "Bulletin Board", "Refreshment Stand", "Donation Box", "Clock",
+      "Flier Rack", "Storage Closet", "Directional Sign", "Wall Fan", "Other"
+    ],
+    "Craft Studio": [
+      "Work Table", "Tool Shelf", "Craft Storage Unit", "Apron Rack", "Curtain Divider",
+      "Display Rack", "Sink Stand", "Drying Rack", "Material Tray", "Lighting Box",
+      "Scissors Hanger", "Paint Holder", "Wool Shelf", "Fan Unit", "Stool",
+      "Cabinet", "Waste Bin", "Notice Board", "Wall Art Frame", "Other"
+    ]
+  },
+  "64. Outdoor Parks": {
+    "Children's Playground": [
+      "Swing Set Base", "Slide Ladder", "Climbing Frame Base", "Bench", "Shade Umbrella",
+      "Trash Bin", "Sand Pit Border", "Bike Rack", "Information Board", "Fountain Base",
+      "Planter Boxes", "Lighting Pole", "Water Station", "Playhouse Frame", "Safety Signage",
+      "Rope Bridge Stand", "Picnic Table", "Seating Log", "Game Board Table", "Other"
+    ],
+    "Dog Park": [
+      "Agility Ramp Base", "Dog Waste Bin", "Drinking Bowl Stand", "Shade Canopy Frame", "Bench",
+      "Leash Holder", "Obstacle Course Base", "Lighting Fixture", "Information Kiosk", "Trash Bin",
+      "Toy Box Stand", "Water Station", "Curtains", "Storage Bin", "Planter",
+      "Fence Gate Post", "Notice Board", "Scooping Tool Rack", "Signage Pole", "Other"
+    ]
+  },
+  "65. Tech Innovation Hubs": {
+    "Co-working Space": [
+      "Modular Desk", "Whiteboard", "Work Booth", "Laptop Dock", "Charging Console",
+      "Flexible Chair", "Snack Shelf", "Printer Console", "Projector Mount", "Monitor Stand",
+      "Curtains", "Planters", "Clock", "Wall Art", "Sofa Set",
+      "Lighting Fixture", "Coffee Station", "Notice Board", "Storage Unit", "Other"
+    ],
+    "Maker Lab": [
+      "3D Printer Base", "Workbench", "Tool Chest", "Laser Cutter Stand", "Computer Desk",
+      "Shelving Unit", "Parts Tray", "Fume Hood Frame", "Display Board", "CNC Station Rack",
+      "Material Storage", "Clock", "Curtains", "Cable Rack", "Storage Drawer",
+      "Safety Gear Rack", "Soldering Station Table", "Prototype Display Rack", "Chair", "Other"
+    ]
+  },
+  "66. Traditional Homes": {
+    "Maasai Manyatta": [
+      "Three-Stone Hearth Base", "Stool", "Hide Bed Frame", "Storage Basket", "Drinking Calabash Holder",
+      "Wall Hanging Hooks", "Wooden Headrest Rack", "Water Container Stand", "Cooking Pot Shelf", "Firewood Holder",
+      "Milk Gourd Rack", "Curtain Divider", "Animal Skin Mat", "Torch Holder", "Beadwork Display",
+      "Spear Stand", "Shield Mount", "Drum Base", "Grinding Stone Platform", "Other"
+    ],
+    "Swahili House": [
+      "Low Seat Frame", "Carved Zanzibari Door Display", "Decorative Arch Panel", "Coral Rag Wall Shelf", "Majlis Sofa Base",
+      "Wall Hanging Mat", "Window Grill Frame", "Spice Storage Niche", "Tea Tray Stand", "Prayer Mat Rack",
+      "Water Jug Shelf", "Brass Lantern Frame", "Floor Cushion", "Curtains", "Bead Curtain Rail",
+      "Coffee Table", "Incense Burner Stand", "Clock", "Display Niche", "Other"
+    ]
+  },
+  "67. Broadcasting Centers": {
+    "Radio Studio": [
+      "Mic Boom Arm", "Console Table", "Monitor Shelf", "Soundproof Wall Panel", "Chair",
+      "Lighting Fixture", "Broadcast Mixer Stand", "Laptop Dock", "Curtains", "Clock",
+      "Station Name Board", "Fan Unit", "Phone Rack", "Whiteboard", "UPS Box",
+      "Shelf Rack", "Router Cabinet", "Recorder Stand", "Sign Light", "Other"
+    ],
+    "TV Studio": [
+      "Camera Tripod Base", "Green Screen Rack", "Lighting Grid", "Monitor Console", "Mic Stand",
+      "Control Table", "Director Chair", "Props Shelf", "Editing Workstation", "Curtains",
+      "Fan Unit", "Signage Board", "Speaker Mount", "Rolling Cabinet", "Display Monitor Stand",
+      "Production Switcher Shelf", "Wall Clock", "Projector Arm", "Laptop Shelf", "Other"
+    ]
+  },
+  "68. Beauty & Grooming": {
+    "Barbershop": [
+      "Barber Chair", "Hair Clipper Shelf", "Mirror Stand", "Reception Desk", "Towel Rack",
+      "Waiting Bench", "Hair Product Shelf", "Curtains", "Fan", "Clock",
+      "Trash Bin", "Display Shelf", "Lighting Fixture", "Shampoo Stand", "Brush Holder",
+      "Scissors Rack", "TV Mount", "Dispenser Stand", "Decor Frame", "Other"
+    ],
+    "Salon": [
+      "Hair Styling Chair", "Dryer Station", "Mirror Frame", "Makeup Stand", "Product Shelf",
+      "Reception Counter", "Curtains", "Fan Unit", "Clock", "Waiting Sofa",
+      "Pedicure Stand", "Towel Cabinet", "Lighting Panel", "Accessory Rack", "Display Tray",
+      "Magazine Rack", "Water Dispenser Rack", "TV Stand", "Music Console", "Other"
+    ]
+  },
+  "69. Correctional Facilities": {
+    "Prison Cell": [
+      "Bunk Bed", "Wall Shelf", "Locker", "Desk", "Curtains",
+      "Mirror Frame", "Toilet Partition Frame", "Sink Stand", "Fan", "Chair",
+      "Lighting Fixture", "Notice Board", "Clock", "Waste Bin", "Storage Box",
+      "Curtain Divider", "Reading Lamp", "Bookshelf", "Writing Pad Holder", "Other"
+    ],
+    "Warden Office": [
+      "Desk", "Office Chair", "File Cabinet", "Whiteboard", "Curtains",
+      "Clock", "Lighting Fixture", "Fan", "Laptop Dock", "Printer Stand",
+      "Storage Unit", "Pen Holder", "Notice Board", "TV Mount", "Waste Bin",
+      "Shelves", "Visitor Chair", "Wall Art", "Stationery Rack", "Other"
+    ]
+  },
+  "70. Maternity & Childcare": {
+    "Maternity Ward": [
+      "Delivery Bed", "Bassinet Frame", "Medical Tray Stand", "Curtain Divider", "Nurse Workstation",
+      "Patient File Rack", "Gloves Dispenser", "Handwash Sink Frame", "Fan Unit", "Curtains",
+      "Wall Clock", "Lighting Panel", "Medicine Storage Shelf", "IV Stand Base", "Monitor Mount",
+      "Foot Stool", "Waste Disposal Bin", "Towel Shelf", "Oxygen Stand", "Other"
+    ],
+    "Daycare Room": [
+      "Baby Crib", "Changing Table", "Toy Storage Shelf", "Nap Mat Rack", "Activity Table",
+      "Colorful Rug", "Curtains", "Fan", "Display Board", "Teacher Desk",
+      "High Chair", "Wall Art Frame", "Bookshelf", "Whiteboard", "Clock",
+      "Milk Dispenser Tray", "Bottle Warmer Stand", "Child Locker", "Shoes Rack", "Other"
+    ]
+  },
+  "71. Pop Culture & Fandom": {
+    "Comic Book Store": [
+      "Comic Rack", "Merchandise Display", "Action Figure Shelf", "Reading Table", "Poster Frame",
+      "Collectibles Cabinet", "Display Case", "Checkout Counter", "Wall Decals", "LED Signs",
+      "Cosplay Corner Stand", "Event Registration Desk", "TV Stand", "Themed Chairs", "Lighting Fixtures",
+      "Storage Bins", "Promo Board", "Magazine Holder", "Autograph Table", "Other"
+    ],
+    "Gaming Lounge": [
+      "Gaming Chair", "Monitor Stand", "Console Shelf", "Controller Rack", "Gaming Table",
+      "Headphone Holder", "Snack Station", "Cable Organizer", "Wall Art", "Router Stand",
+      "Keyboard Tray", "LED Strip Lighting", "Streamer Desk", "Soundproof Panels", "Charging Station",
+      "Mini Fridge Cabinet", "Game Library Shelf", "VR Stand", "Curtains", "Other"
+    ]
+  },
+  "72. Media & Production": {
+    "Radio Station": [
+      "Mic Boom Arm", "Mixer Desk", "Recording Booth Table", "Sound Console", "Wall Foam Panels",
+      "Guest Chair", "Laptop Stand", "Cable Rack", "Wall Clock", "Announcement Board",
+      "CD Shelf", "Storage Cabinet", "Curtains", "Soundproof Booth Divider", "Headset Hook",
+      "Guest Mic Stand", "Phone Mount Shelf", "Lighting Fixture", "Pen Tray", "Other"
+    ],
+    "TV Studio": [
+      "Camera Stand", "Teleprompter Table", "Anchor Desk", "Lighting Rig", "Green Screen Frame",
+      "Monitor Console", "Director's Chair", "Cable Organizer", "Backdrop Panel", "Cue Card Stand",
+      "Editing Station", "Sound Rack", "Curtain Divider", "Storage Case", "Signboard",
+      "Broadcast Timer Shelf", "Video Reel Rack", "Props Cabinet", "Microphone Mount", "Other"
+    ]
+  },
+  "73. Heritage & Tradition": {
+    "Cultural Center": [
+      "Traditional Display Stand", "Heritage Cabinet", "Costume Rack", "Artifact Showcase", "Info Kiosk",
+      "Stage Platform", "Drum Stand", "Wall Banners", "Curtains", "Decorative Lanterns",
+      "Seating Bench", "Handcraft Shelf", "Exhibition Divider", "Photo Frame Rack", "Storytelling Seat",
+      "Video Screen Cabinet", "Leaflet Dispenser", "Wall Map", "Donation Box", "Other"
+    ],
+    "Shrine": [
+      "Offering Table", "Prayer Bench", "Incense Holder", "Wall Scroll Frame", "Candle Shelf",
+      "Curtains", "Ceremonial Shelf", "Lighting Fixture", "Meditation Mat Rack", "Donation Stand",
+      "Symbolic Statue Base", "Prayer Book Stand", "Wood Carving Display", "Chime Mount", "Water Basin Cabinet",
+      "Altar Bench", "Protective Canopy Frame", "Footwear Shelf", "Community Message Board", "Other"
+    ]
+  },
+  "74. Social Hubs": {
+    "Internet Cafe": [
+      "Computer Desk", "Monitor Shelf", "Keyboard Tray", "Cable Organizer", "Server Cabinet",
+      "Headphone Hook", "Customer Chair", "Printer Table", "Payment Counter", "Curtains",
+      "Light Fixture", "Router Stand", "Wall Fan Unit", "Signage Board", "Magazines Shelf",
+      "Water Dispenser Stand", "Stationery Tray", "Waste Bin", "Phone Charging Station", "Other"
+    ],
+    "Youth Center": [
+      "Game Table", "Reading Rack", "Snack Bar Counter", "Storage Locker", "Wall Poster Frame",
+      "Curtains", "Seating Bench", "Charging Station", "TV Stand", "Sound System Cabinet",
+      "Table Games Shelf", "Crafts Table", "Sports Gear Rack", "Stage Platform", "Activity Sign Board",
+      "Mic Stand", "Locker Unit", "Fan Unit", "Chair", "Other"
+    ]
+  },
+  "75. Real Estate Showrooms": {
+    "Housing Demo Unit": [
+      "Model Kitchen Shelf", "Bathroom Vanity Stand", "Closet Rack", "Miniature Bed Frame", "Display Sofa",
+      "Wall Decor Panel", "Curtains", "Brochure Holder", "Information Stand", "Product Tag Display",
+      "Virtual Tour Screen", "Project Brochure Table", "Carpet Sample Display", "Lighting Fixture",
+      "Cabinet", "Chair", "Mirror Frame", "Wall Paint Demo Board", "Other"
+    ],
+    "Sales Office": [
+      "Reception Counter", "Customer Desk", "Display Wall Rack", "Lighting Console", "Promo Banner Stand",
+      "Model Unit Showcase", "Filing Cabinet", "Curtains", "Waiting Sofa", "Brochure Rack",
+      "Floor Plan Frame", "TV Stand", "Schedule Board", "Mini Fridge Cabinet", "Water Station Shelf",
+      "Stationery Organizer", "Clock", "Printer Stand", "Other"
+    ]
+  },
+  "76. Urban Infrastructure": {
+    "Community Hall": [
+      "Stage Podium", "Folding Chair", "Sound Console", "Curtains", "Notice Board",
+      "Projector Table", "Brochure Table", "Lighting System", "Microphone Stand", "Cable Cover",
+      "Storage Rack", "Public Address Desk", "Water Dispenser Cabinet", "Stage Steps", "Clock",
+      "Whiteboard", "Divider Panel", "Fan Unit", "Emergency Light Box", "Other"
+    ],
+    "Public Plaza": [
+      "Benches", "Information Kiosk", "Art Sculpture Stand", "Public Map Board", "Water Fountain Frame",
+      "Street Light Pole", "Directional Signage", "Planter Boxes", "Public Phone Shelf", "Bike Rack",
+      "Trash Bins", "Curtains", "Stage Setup Platform", "Open Air Display Table", "Sunshade Umbrella",
+      "Charging Station", "Speaker Pole", "Outdoor Clock", "Barrier Divider", "Other"
+    ]
+  },
+  "77. Festivals & Entertainment": {
+    "Music Festival Grounds": [
+      "Stage Deck", "Speaker Tower", "Backstage Table", "Banner Stand", "Ticket Booth Table",
+      "Merch Shelf", "LED Display Frame", "Food Stall Counter", "Lighting Rig", "Performer Seat",
+      "Mic Rack", "Curtain Divider", "Signage Post", "Water Station Rack", "Staff Desk",
+      "Power Hub Console", "Sound Desk", "Security Post Table", "Guest Tent Table", "Other"
+    ],
+    "Amusement Park": [
+      "Ride Control Desk", "Ticket Counter", "Snack Cart", "Waiting Bench", "Directional Sign",
+      "Curtain Frame", "First Aid Table", "Locker Unit", "Trash Can", "Lost & Found Shelf",
+      "Display Rack", "Theme Costume Shelf", "Wall Art Panel", "Planter Stand", "Charging Pole",
+      "Water Dispenser", "Shaded Rest Area Bench", "Photo Booth Table", "Clock", "Other"
+    ]
+  },
+  "78. Children Spaces": {
+    "Daycare": [
+      "Baby Crib", "Feeding Chair", "Play Mat Rack", "Storage Bins", "Reading Nook Shelf",
+      "Toy Shelf", "Art Table", "Curtains", "Sleeping Cot", "Bottle Warmer Table",
+      "Diaper Station", "Wipe Shelf", "Fan", "Rocking Chair", "Safety Gate",
+      "Organizer Tray", "Clothing Hanger", "Whiteboard", "Mini Couch", "Other"
+    ],
+    "Playground": [
+      "Slide Base", "Swing Frame", "Sandbox Bench", "Seesaw Stand", "Climbing Wall Frame",
+      "Safety Mat Rack", "Water Fountain Stand", "Storage Locker", "Curtains", "Trash Bin",
+      "Picnic Table", "Bike Rack", "Shaded Seat", "Information Board", "Tool Cabinet",
+      "Toy Organizer", "Rope Ladder Mount", "First Aid Box", "Sun Cover Pole", "Other"
+    ]
+  },
+  "79. Political & Civic": {
+    "City Hall": [
+      "Council Table", "Nameplate Holder", "Voting Booth Stand", "Curtains", "Security Console",
+      "Public Address Stand", "Reception Desk", "Waiting Bench", "Brochure Rack", "Notice Board",
+      "Information Kiosk", "Lighting Console", "Clock", "Water Dispenser", "Feedback Box",
+      "Planter Pots", "Sound System Cabinet", "Digital Info Screen", "Flags Stand", "Other"
+    ],
+    "Polling Station": [
+      "Ballot Box Table", "Voter Booth Partition", "Signage Stand", "Security Table", "Voter Roll Shelf",
+      "Curtains", "Chair", "Pen Tray", "Queue Marker Stand", "Document Rack",
+      "Laptop Stand", "Information Board", "Lighting Fixture", "Fan Unit", "Waste Bin",
+      "Registration Desk", "Clock", "Feedback Form Box", "ID Verification Stand", "Other"
+    ]
+  },
+  "80. Marine & Ports": {
+    "Docking Area": [
+      "Bollard Frame", "Cargo Stand", "Loading Ramp Table", "Signal Light Fixture", "Railing Frame",
+      "Dock Signboard", "Life Ring Holder", "Rope Organizer", "Security Booth Table", "Storage Cabinet",
+      "Navigation Light Pole", "Equipment Rack", "Curtains", "Information Board", "Water Pump Station Shelf",
+      "Electric Console Box", "Bench", "Emergency Kit Box", "Tool Tray", "Other"
+    ],
+    "Port Authority Office": [
+      "Reception Desk", "Shipping Ledger Rack", "Customs Counter", "Container Monitoring Shelf", "Lighting Console",
+      "Curtains", "Security Camera Mount", "File Cabinet", "Staff Desk", "Waiting Sofa",
+      "Radio Communication Console", "Plan Board", "Water Station", "Notice Board", "Flags Stand",
+      "Digital Sign Display", "Wall Clock", "Pen Stand", "Stationery Shelf", "Other"
+    ]
+  },
+  "81. Forest & Wildlife": {
+    "Forest Ranger Station": [
+      "Patrol Desk", "Gear Rack", "Surveillance Console", "Emergency Kit Shelf", "Cabin Bunk",
+      "Wildlife Report Board", "First Aid Station", "Map Table", "Communication Radio Stand", "Weather Display Panel",
+      "Logbook Cabinet", "Lighting Unit", "Outdoor Bench", "Storage Trunk", "Solar Charging Station",
+      "Trail Sign Organizer", "Safety Equipment Shelf", "Fire Extinguisher Mount", "Notice Board", "Other"
+    ],
+    "Wildlife Observation Deck": [
+      "Binocular Stand", "Camera Mount", "Information Panel", "Protective Railing", "Canopy Shade",
+      "Wooden Benches", "Telescope Base", "Directional Signs", "Leaflet Rack", "Viewing Map Table",
+      "Step Ladder", "Solar Lamp Post", "Bird Feeder Shelf", "Wildlife ID Chart Board", "Storage Box",
+      "Observation Stool", "Portable Shade Tent", "Speaker Console", "Security Binocular Lock", "Other"
+    ]
+  },
+  "82. Film & Production": {
+    "Film Set": [
+      "Scene Divider Panel", "Lighting Rig", "Green Screen Stand", "Props Table", "Script Station",
+      "Sound Boom Stand", "Director Chair", "Makeup Counter", "Wardrobe Rack", "Stage Ramp",
+      "Monitor Trolley", "Storage Cabinet", "Camera Dolly Track", "Power Distribution Box", "Clapboard Shelf",
+      "Cue Cards Rack", "Backstage Curtain", "Grip Tool Cabinet", "Voiceover Console", "Other"
+    ],
+    "Editing Room": [
+      "Editing Desk", "Monitor Shelf", "Sound Mixer Console", "Cable Organizer", "Software License Drawer",
+      "Headphones Hook", "Lighting Console", "Coffee Station Shelf", "Wall Acoustic Panel", "Keyboard Tray",
+      "Power Strip Rack", "Archive Cabinet", "Curtains", "Speaker Mount", "Mouse Pad Area",
+      "Video Switcher Table", "USB Hub Shelf", "Notebook Stand", "Control Console", "Other"
+    ]
+  },
+  "83. Research Centers": {
+    "Field Lab": [
+      "Sample Table", "Testing Rack", "Solar Inverter Cabinet", "Specimen Box", "Weather Equipment Mount",
+      "Tarp Storage Rack", "Portable Cooler Shelf", "Observation Board", "GPS Equipment Shelf", "Notebook Stand",
+      "Sensor Control Unit", "Tool Box Mount", "Specimen Label Drawer", "Wall Whiteboard", "Hand Wash Stand",
+      "Protective Gear Hook", "Report Holder", "Measuring Board", "Emergency Kit", "Other"
+    ],
+    "Data Analysis Room": [
+      "Workstation Table", "Server Rack", "Cable Tray", "Monitor Console", "Climate Control Shelf",
+      "Backup Drive Drawer", "Headphones Hanger", "Keyboard Shelf", "Whiteboard Wall", "USB Charging Station",
+      "Digital Clock Mount", "Power Management Console", "Task Lighting Unit", "Air Filter Console", "Curtains",
+      "Equipment Cabinet", "Reference Shelf", "Wi-Fi Console", "Chair Mat", "Other"
+    ]
+  },
+  "84. Political & Civic Spaces": {
+    "City Hall": [
+      "Mayor Desk", "Reception Stand", "Press Conference Podium", "Notice Board", "Voting Booth",
+      "Civic Signage Rack", "Display Board", "Staff Workstation", "Public Seating Bench", "Art Display Case",
+      "Security Console", "Suggestion Box", "Speaker Stand", "Document Shelf", "Event Poster Mount",
+      "Public Access Desk", "Map Holder", "Plant Pot Holder", "Flag Stand", "Other"
+    ],
+    "Council Chamber": [
+      "Council Table", "Delegate Chair", "Microphone Stand", "Voting Panel Console", "Translator Booth",
+      "Digital Screen Console", "Name Tag Holder", "Curtains", "Lighting Rack", "Floor Signage",
+      "Water Dispenser Cabinet", "Wall Clock", "Seating Area", "Info Kiosk", "Podium",
+      "Sound Panel", "Cable Organizer", "Document Cabinet", "Floor Markings", "Other"
+    ]
+  },
+  "85. Monuments & Memorials": {
+    "Heritage Monument": [
+      "Informational Plaque", "Statue Base", "Bench", "Lighting Fixture", "Barrier Fence",
+      "Flag Post", "Flower Stand", "Donor Name Wall", "Memorial Stone Shelf", "Visitor Sign Book",
+      "Guide Board", "Ticket Box", "Lantern Post", "Trash Bin", "Photography Stand",
+      "Security Booth", "Accessibility Ramp", "Directional Sign", "Rest Stop Bench", "Other"
+    ],
+    "War Memorial": [
+      "Wreath Stand", "Torch Holder", "Veteran Plaque Wall", "Name Inscription Board", "Guard Post",
+      "Remembrance Lighting Console", "Donation Box", "Flame Pit Frame", "Stone Bench", "Honor Roll Display",
+      "National Flag Pole", "Trophy Display Case", "Guestbook Shelf", "Candle Rack", "Speaker Console",
+      "Art Piece Mount", "Narrative Board", "Barrier Post", "Security Panel", "Other"
+    ]
+  },
+  "86. Science & Technology": {
+    "Tech Innovation Hub": [
+      "Modular Desk", "Gadget Dock", "VR Stand", "Charging Station", "Hack Table",
+      "3D Printer Stand", "Monitor Wall", "Cable Rack", "Coding Station", "Hardware Tools Shelf",
+      "Software Display Board", "Networking Cabinet", "Trophy Stand", "Speaker Console", "Whiteboard",
+      "Projector Console", "Control Unit", "Remote Control Box", "Server Stand", "Other"
+    ],
+    "Astronomy Lab": [
+      "Telescope Stand", "Star Chart Wall", "Planetarium Console", "Data Logger Rack", "Sky Projection Dome",
+      "Binocular Shelf", "Specimen Case", "Observation Platform", "Satellite Dish Mount", "Chair",
+      "Astronaut Suit Hook", "Lighting System Panel", "Meteorite Display Table", "Curtains", "Tech Cabinet",
+      "Monitor Panel", "Wall Clock", "Sky Calendar Board", "Foot Rest", "Other"
+    ]
+  },
+  "87. Children Play & Learning": {
+    "Daycare Center": [
+      "Toy Shelf", "Nap Cot", "Activity Table", "Storytelling Chair", "Art Easel",
+      "Playmat Area", "Cushion Bin", "Reading Nook", "Drawing Table", "Snack Shelf",
+      "Washing Station", "Storage Box", "Curtains", "Whiteboard", "Shoe Rack",
+      "Water Bottle Rack", "Chair", "Cabinet", "Clock", "Other"
+    ],
+    "Playground Pavilion": [
+      "Picnic Table", "Bench", "Bike Rack", "Trash Can", "Shade Canopy",
+      "Toy Bin", "Slide Guard", "Climber Station", "Seating Stone", "Chalk Board",
+      "Storage Cubby", "Sand Toy Shelf", "Rain Cover", "Info Panel", "Water Fountain Stand",
+      "Fan Stand", "Curtains", "Display Board", "Activity Wheel", "Other"
+    ]
+  },
+  "88. Airports & Aviation": {
+    "Airport Terminal": [
+      "Check-in Counter", "Luggage Trolley Stand", "Seating Row", "Flight Info Panel", "Security Screening Rack",
+      "Boarding Gate Desk", "Overhead Storage Shelf", "Charging Port Rack", "Food Court Table", "Baggage Claim Belt",
+      "Airline Helpdesk", "Public Announcement Console", "Trash Bin", "VIP Lounge Furniture", "Queue Divider",
+      "ATM Console", "Duty-Free Display Case", "Travel Doc Shelf", "Washroom Access Panel", "Other"
+    ],
+    "Aircraft Hangar": [
+      "Tool Chest", "Workbench", "Aircraft Jack Base", "Parts Rack", "Engine Stand",
+      "Tire Holder", "Ladder Rack", "Maintenance Console", "Power Supply Unit", "Hydraulic Lift Console",
+      "Safety Gear Shelf", "Cleaning Station", "Fire Extinguisher Mount", "Hose Reel Hook", "Wall Chart",
+      "Curtains", "Equipment Cabinet", "Wall Clock", "Tool Organizer", "Other"
+    ]
+  },
+  "89. Marine & Harbors": {
+    "Fishing Dock": [
+      "Fish Cleaning Table", "Storage Crate Rack", "Ice Chest Shelf", "Dock Bench", "Net Rack",
+      "Weighing Scale Stand", "Water Hose Cabinet", "Gear Locker", "Fish Display Rack", "Safety Gear Hook",
+      "Light Post", "Catch Board", "Trash Bin", "Rod Stand", "Cooler Box Shelf",
+      "Weather Display Panel", "Railing Rack", "Signboard", "Fish Box Console", "Other"
+    ],
+    "Harbor Control Room": [
+      "Navigation Console", "Radar Display Rack", "Weather Station Panel", "Radio Shelf", "Desk",
+      "Map Table", "Monitoring Chair", "Curtains", "Wall Clock", "Signal Light Panel",
+      "Intercom Console", "Safety Gear Cabinet", "Notice Board", "Power Backup Console", "Speaker Unit",
+      "Emergency Phone Rack", "Control Buttons Panel", "Dock Plan Shelf", "Visitor Log Stand", "Other"
+    ]
+  },
+  "90. Markets & Trade": {
+    "Farmer Market Stall": [
+      "Display Rack", "Cash Drawer Table", "Product Basket Stand", "Weight Scale Console", "Sunshade Umbrella",
+      "Vegetable Crate Stack", "Receipt Book Shelf", "Sanitizer Rack", "Signage Board", "Plastic Bag Rack",
+      "Box Organizer", "Measuring Table", "Price Label Holder", "Thermal Bag Rack", "Tray Shelf",
+      "Portable Light Stand", "Customer Seat", "Waste Bin", "Curtains", "Other"
+    ],
+    "Wholesale Store": [
+      "Heavy Duty Shelf", "Pallet Stand", "Price Display Unit", "Bulk Storage Bin", "Customer Checkout Counter",
+      "Cart Station", "Security Camera Mount", "Product Divider Rack", "Label Printer Console", "Billing Desk",
+      "Hand Truck Base", "Emergency Exit Sign", "Digital Clock", "Fan Unit", "Plastic Basket Rack",
+      "Queue Pole Divider", "Packaging Table", "Curtains", "Notice Board", "Other"
+    ]
+  },
+"91. Urban Farming & Green Spaces": {
+  "Rooftop Garden": [
+    "Planter Box", "Water Tank Cover", "Irrigation Pipe Holder", "Solar Light Stand", "Composting Unit",
+    "Shade Net Frame", "Vertical Garden Panel", "Storage Cabinet", "Raised Beds", "Work Table",
+    "Tool Rack", "Bench", "Fence Panel", "Display Tag Board", "Seedling Tray Rack",
+    "Recycled Decor", "Rainwater Barrel Stand", "Potting Table", "Weather Station Mount", "Other"
+  ],
+  "Community Garden": [
+    "Garden Bench", "Notice Board", "Tool Shed", "Compost Bin", "Fencing Unit",
+    "Picnic Table", "Planter Divider", "Seed Locker", "Shovel Rack", "Harvest Counter",
+    "Greenhouse Frame", "Pump Unit", "Seed Display Panel", "Hose Holder", "Bird Feeder Pole",
+    "Pathway Light", "Signage Stand", "Plant Label Stakes", "Potting Mix Bin", "Other"
+  ]
+},
+"92. Wildlife & Nature Parks": {
+  "Visitor Center": [
+    "Reception Desk", "Display Table", "Animal Exhibit Cabinet", "Interactive Kiosk", "Binocular Stand",
+    "Signage Board", "Map Rack", "Souvenir Shelf", "Information Counter", "Photo Wall Frame",
+    "Trash Can", "Rest Bench", "Water Fountain Unit", "Curtains", "Wall Art Panel",
+    "Donation Box", "Lighting Fixture", "Brochure Stand", "Exhibit Divider", "Other"
+  ],
+  "Animal Viewing Area": [
+    "Fence Railing", "Binocular Mount", "Deck Platform", "Information Board", "Wooden Bench",
+    "Observation Booth", "Pathway Lights", "Camera Stand", "Bird Watching Tower Unit", "Viewing Window",
+    "Signboard Frame", "Guidebook Rack", "Directional Arrow Post", "Display Tag", "Trash Bin",
+    "Animal Sound Station", "Seating Log", "Walkway Ramp", "Barrier Frame", "Other"
+  ]
+},
+"93. Maker Spaces & Innovation Hubs": {
+  "Tech Lab": [
+    "Workbench", "3D Printer Table", "Component Rack", "Laser Cutter Console", "Electronics Cabinet",
+    "Whiteboard", "VR Setup Stand", "Storage Drawer", "Prototyping Shelf", "Tool Wall",
+    "Charging Station", "IoT Panel", "Screen Stand", "Material Bin", "Wire Spool Holder",
+    "Workbench Mat", "Work Light", "Soldering Station", "Design Pegboard", "Other"
+  ],
+  "Craft Zone": [
+    "Cutting Table", "Material Shelf", "Paint Station", "Tool Organizer", "Drying Rack",
+    "Sketch Desk", "Scrap Bin", "Glue Stand", "Scissor Holder", "Brush Rack",
+    "Thread Cabinet", "Pattern Board", "Display Wall", "Pin Cushion Board", "Ruler Hook",
+    "Sewing Machine Stand", "Fabric Rack", "Project Basket", "Lamp", "Other"
+  ]
+},
+"94. Film & Broadcast": {
+  "Film Set": [
+    "Lighting Rig", "Director Chair", "Camera Dolly Track", "Backdrop Frame", "Prop Cabinet",
+    "Monitor Cart", "Soundboard Station", "Makeup Station", "Script Table", "Boom Stand",
+    "Set Bench", "Costume Rack", "Stage Platform", "Scene Board Holder", "Microphone Rig",
+    "Cable Organizer", "Grip Tool Box", "Fog Machine Console", "Wardrobe Cabinet", "Other"
+  ],
+  "Broadcast Studio": [
+    "Anchor Desk", "Green Screen Frame", "Lighting Tripod", "Camera Mount", "Soundproof Panel",
+    "Control Console", "Guest Chair", "Teleprompter Mount", "Monitor Panel", "Stage Divider",
+    "Curtains", "Recording Light Box", "Cabling Tray", "Mic Boom Arm", "Editing Desk",
+    "Audio Mixer Table", "Wall Clock", "Headphone Hook", "Digital Display", "Other"
+  ]
+},
+"95. Pet & Animal Care": {
+  "Pet Spa": [
+    "Grooming Table", "Drying Rack", "Shampoo Cabinet", "Towel Stand", "Bathing Tub Frame",
+    "Leash Hanger", "Cage Shelf", "Product Display Rack", "Check-in Counter", "Storage Bin",
+    "Pet Scale Stand", "Mirror Panel", "Waste Bin", "Apron Rack", "Water Bowl Tray",
+    "Snack Jar Shelf", "Decor Plant", "Name Tag Board", "Lighting Box", "Other"
+  ],
+  "Veterinary Clinic": [
+    "Examination Table", "Syringe Rack", "Medication Cabinet", "Animal Cage Unit", "Waiting Bench",
+    "Doctor Desk", "X-Ray Machine Stand", "Glove Box Mount", "Scale Platform", "Curtain Divider",
+    "Sanitizer Rack", "Dog Muzzle Hook", "Sterile Tray", "Record Holder", "Emergency Shelf",
+    "First Aid Box", "Monitor Stand", "Clock", "Biohazard Bin", "Other"
+  ]
+},
+"96. Gaming & Esports": {
+  "Gaming Lounge": [
+    "Gaming Chair", "Monitor Stand", "PC Desk", "Headset Hanger", "Controller Rack",
+    "LED Panel Mount", "Cable Tray", "Mouse Pad Shelf", "Gaming Console Unit", "Cooling Fan Stand",
+    "Soundbar Stand", "Router Cabinet", "Snack Shelf", "Game Disc Rack", "Footrest",
+    "Lighting Strip Panel", "Wall Decor", "Floor Mat", "Live Stream Setup", "Other"
+  ],
+  "Esports Arena": [
+    "Team Booth", "LED Scoreboard", "Spectator Bench", "Caster Desk", "Lighting Rig",
+    "Stage Platform", "Camera Track", "Sound Console", "Monitor Wall", "Router Rack",
+    "Merch Booth Table", "Signage Frame", "Water Station", "VIP Sofa", "Directional Arrow Post",
+    "Screen Divider", "Controller Display", "Registration Stand", "Clock", "Other"
+  ]
+},
+"97. Crypto & Web3 Spaces": {
+  "NFT Gallery": [
+    "Digital Frame Wall", "Crypto Payment Console", "LED Art Shelf", "VR Headset Stand", "Smart Contract Terminal",
+    "Interactive Wall", "Token Display Pod", "QR Stand", "Augmented Reality Panel", "Virtual Tour Console",
+    "Seating Bench", "Tech Art Wall", "Decentralized Access Booth", "Event Schedule Frame", "Networking Pod",
+    "Headphone Hook", "Mood Lighting Panel", "Login Kiosk", "Deco Board", "Other"
+  ],
+  "Crypto Co-working": [
+    "Blockchain Node Cabinet", "Laptop Docking Desk", "Video Call Pod", "Smart Table", "Crypto Ticker Frame",
+    "Privacy Divider", "Network Rack", "Soundproof Booth", "Wall Dashboard", "Ergonomic Chair",
+    "Printer Cabinet", "Virtual Wallet Hub", "Snack Bar Shelf", "Digital Clock", "Curtain Divider",
+    "Wi-Fi Hub Box", "VR Mount", "Ledger Display", "Monitor Arm", "Other"
+  ]
+},
+"98. Marine & Coastal": {
+  "Beach Pavilion": [
+    "Wooden Lounger", "Tiki Bar Table", "Sunshade Frame", "Changing Booth", "Towel Rack",
+    "Life Jacket Stand", "Cooler Cabinet", "Sand Tools Shelf", "Deck Bench", "Umbrella Holder",
+    "Sunscreen Dispenser", "Beach Art Wall", "Trash Bin", "Foot Wash Stand", "Hammock Frame",
+    "Lighting Post", "Info Signboard", "Beverage Holder", "Fan Stand", "Other"
+  ],
+  "Coastal Research Station": [
+    "Specimen Table", "Microscope Desk", "Wet Sample Rack", "Research Board", "Data Logger Shelf",
+    "Storage Drawer", "Boat Gear Stand", "Digital Display", "GPS Mount", "Satellite Console",
+    "Weather Monitor Rack", "Wetsuit Hook", "Oxygen Tank Stand", "Curtains", "Clock",
+    "Work Light", "Lab Equipment Shelf", "Protective Gear Rack", "First Aid Box", "Other"
+  ]
+},
+"99. Virtual & Metaverse Spaces": {
+  "Metaverse Lounge": [
+    "VR Station Frame", "Avatar Creation Kiosk", "Hologram Display Console", "Motion Capture Floor", "Interactive Panel",
+    "Blockchain Display Case", "Virtual Map Board", "Digital Asset Podium", "Ambient Lighting Pole", "Seat Pod",
+    "Streaming Booth", "Reality Blender Unit", "Smart Light Panel", "Feedback Station", "AR Display Rack",
+    "Projection Wall", "3D Scan Stand", "Recharge Console", "Mood Chair", "Other"
+  ],
+  "Digital Office": [
+    "Holographic Desk", "Virtual Keyboard Stand", "Teleport Pad Design", "Interactive Dashboard", "Cloud Dock Console",
+    "Data Visualization Frame", "Ergo Pod", "Virtual Clock Frame", "Lighting Grid", "Privacy Dome",
+    "Zoom Pod", "Streaming Rack", "Assistant Console", "Task Panel", "Mood Screen",
+    "Digital Sign", "Headset Dock", "Display Stand", "NFT Badge Rack", "Other"
+  ]
+},
+"100. Aviation & Space": {
+  "Airport Lounge": [
+    "Waiting Chair", "Flight Info Screen", "Luggage Rack", "Charging Pod", "Snack Bar Console",
+    "Check-in Desk", "Info Kiosk", "Water Station", "Curtains", "TV Wall Mount",
+    "Magazine Shelf", "Display Board", "Clock", "Wi-Fi Hub", "Customer Feedback Box",
+    "Seating Divider", "Ambient Light Strip", "Travel Brochure Stand", "Decor Frame", "Other"
+  ],
+  "Space Research Lab": [
+    "Anti-Gravity Chair", "Telescope Mount", "Satellite Console", "Sample Drawer", "Pressure Control Station",
+    "Specimen Shelf", "Astronaut Suit Rack", "Vacuum Chamber Table", "Tech Wall Panel", "Monitor Bank",
+    "Radiation Shield Stand", "Data Recorder Rack", "Robotic Arm Console", "Charging Station", "Work Platform",
+    "Emergency Box", "Tool Belt Hook", "Digital Display", "LED Light Strip", "Other"
+  ]
+},
+  "101. Legal & Law": {
+    "Courtroom": [
+      "Judge Bench", "Witness Stand", "Defendant Table", "Attorney Desk", "Courtroom Seating",
+      "Jury Box", "Podium", "Evidence Cabinet", "Microphone Stand", "Gavel Holder",
+      "Clock", "Curtains", "Legal Bookshelf", "Audio Recorder Stand", "Flag Holder",
+      "Security Booth", "Notice Board", "Exhibit Display", "Case File Drawer", "Other"
+    ],
+    "Law Office": [
+      "Executive Desk", "Legal Bookcase", "Document Organizer", "Conference Table", "Filing Cabinet",
+      "Visitor Sofa", "Reception Counter", "Lawyer Chair", "Case Storage Box", "Telephone Stand",
+      "Desk Lamp", "Clock", "Briefcase Shelf", "Certificate Frame", "Confidential File Bin",
+      "Whiteboard", "Printer Stand", "Client Record Cabinet", "Pen Holder", "Other"
+    ]
+  },
+  "102. Waste Management & Sanitation": {
+    "Recycling Center": [
+      "Sorting Table", "Plastic Bin", "Glass Container", "Metal Compartment", "Paper Stack Rack",
+      "Weighing Scale Stand", "Compost Drum", "Instruction Sign", "Waste Label Display", "Trolley Cart",
+      "Bag Hook Rail", "Sanitization Shelf", "Protective Gear Stand", "Gloves Cabinet", "Clock",
+      "Bin Divider", "Shredder Table", "Hazard Box", "Recycled Product Shelf", "Other"
+    ],
+    "Public Toilet Facility": [
+      "Sink Counter", "Hand Dryer Mount", "Mirror Panel", "Tissue Dispenser Frame", "Trash Bin",
+      "Baby Changing Table", "Signage Board", "Air Freshener Console", "Lighting Fixture", "Water Tank Cover",
+      "Toilet Paper Rack", "Cleaning Equipment Rack", "Soap Dispenser", "Queue Divider", "First Aid Box",
+      "Door Hook", "Accessibility Handle", "Fan Unit", "Curtain Divider", "Other"
+    ]
+  },
+  "103. Disaster Management": {
+    "Relief Center": [
+      "Distribution Table", "Sleeping Cot", "Food Rack", "Water Drum Stand", "Registration Counter",
+      "Notice Board", "Medical Kit Shelf", "Queue Barrier", "Blanket Storage Bin", "ID Verification Stand",
+      "Emergency Light Mount", "Loudspeaker Console", "Security Booth", "Curtains", "Clock",
+      "Donation Box", "Document Rack", "Portable Fan", "Tarp Storage Shelf", "Other"
+    ],
+    "Command Post": [
+      "Map Table", "Radio Console", "Laptop Desk", "Whiteboard", "Communication Rack",
+      "Power Generator Stand", "Information Sign", "Satellite Phone Dock", "Stationery Cabinet", "Curtains",
+      "Clock", "Surveillance Monitor Frame", "Walkie-Talkie Hook", "Printer Table", "Battery Bank Stand",
+      "Situation Board", "Chair", "Emergency Plan Holder", "Toolbox Shelf", "Other"
+    ]
+  },
+  "104. Parks & Recreation": {
+    "Playground": [
+      "Slide Frame", "Swing Set", "Climbing Net", "Seesaw Base", "Sandbox Edge",
+      "Park Bench", "Drinking Fountain", "Trash Bin", "Info Board", "Light Pole",
+      "Bike Rack", "Picnic Table", "Restroom Door Sign", "Fence Panel", "Safety Mat",
+      "Tree Guard", "Notice Sign", "Clock", "Footpath Divider", "Other"
+    ],
+    "Community Center": [
+      "Reception Desk", "Activity Table", "Storage Locker", "Game Shelf", "Wall Clock",
+      "Curtains", "Stage Platform", "AV Console", "Whiteboard", "Snack Bar Counter",
+      "Lighting Rack", "Event Sign Board", "Chair Rack", "Water Dispenser", "Information Bulletin",
+      "Cleaning Equipment Rack", "Fan", "Notice Cabinet", "Lounge Sofa", "Other"
+    ]
+  },
+  "105. Archives & Records": {
+    "Historical Archive": [
+      "Document Shelf", "Climate Control Cabinet", "Map Storage Drawer", "Artifact Box", "Display Panel",
+      "Temperature Monitor", "Digital Archive Console", "Label Stand", "Protective Gear Rack", "Index Card Frame",
+      "Reading Desk", "Lighting Fixture", "Storage Locker", "Security Box", "Access Tag Console",
+      "Clock", "Preservation Tools Table", "Curtains", "Visitor Register Table", "Other"
+    ],
+    "Records Office": [
+      "File Cabinet", "Index Rack", "Label Printer Table", "Desk", "Chair",
+      "Document Shredder", "Security Safe", "Digital Backup Unit", "Box Stack Shelf", "Access Control Pad",
+      "Clock", "Pen Tray", "Reception Desk", "Notice Pin Board", "Whiteboard",
+      "Storage Drawer", "Wi-Fi Router Console", "Curtains", "Fan Unit", "Other"
+    ]
+  },
+  "106. Remote Work & Home Office": {
+    "Home Office": [
+      "Work Desk", "Ergonomic Chair", "Laptop Stand", "Monitor Arm", "Stationery Holder",
+      "Bookshelf", "Desk Lamp", "Cable Organizer", "Drawer Unit", "Notice Board",
+      "Wall Clock", "Printer Stand", "Headphone Hook", "Router Shelf", "Plant Holder",
+      "Footrest", "Curtains", "Power Strip Console", "Chair Mat", "Other"
+    ],
+    "Remote Meeting Zone": [
+      "Webcam Mount", "Green Screen Frame", "Ring Light Stand", "Microphone Arm", "Monitor Stand",
+      "Sound Absorber Panel", "Wi-Fi Booster Stand", "Background Decor Panel", "Streaming Desk", "Mouse Pad Shelf",
+      "Seating Bench", "Laptop Dock", "Whiteboard", "Mood Light Box", "Charging Station",
+      "Clock", "Curtains", "Remote Control Holder", "Note Rack", "Other"
+    ]
+  },
+  "107. Elderly & Special Needs": {
+    "Assisted Living Room": [
+      "Adjustable Bed Frame", "Support Handle", "Wheelchair Stand", "Walker Rack", "Medical Shelf",
+      "Medication Box", "Reading Table", "Curtains", "Wall Fan", "TV Mount",
+      "Chair", "Table Lamp", "Hygiene Cabinet", "Night Light Console", "Notice Board",
+      "Safety Rail", "Emergency Call Box", "Non-slip Mat", "Clock", "Other"
+    ],
+    "Therapy Room": [
+      "Massage Chair", "Rehab Table", "Exercise Mat", "Therapy Ball Rack", "Handrail System",
+      "Curtain Divider", "Mirror Panel", "Monitor Stand", "Locker Cabinet", "Wall Clock",
+      "Chair", "Mood Light", "Footstool", "Speaker Console", "Stationery Shelf",
+      "Assessment Chart Board", "Curtains", "Storage Box", "Cushion Unit", "Other"
+    ]
+  },
+  "108. Experimental & Futuristic": {
+    "Smart Home Lab": [
+      "IoT Panel", "Smart Mirror Stand", "Voice Assistant Table", "Sensor Display Unit", "Energy Monitor Rack",
+      "Smart Fridge Console", "Automated Curtain Rail", "Lighting Control Panel", "Digital Dashboard", "Robot Shelf",
+      "Clock", "Interactive Wall", "Motion Sensor Mount", "Touch Panel", "Curtain",
+      "Voice Control Console", "VR Rack", "Projection Wall", "Tech Sample Box", "Other"
+    ],
+    "Drone Hub": [
+      "Drone Charging Pad", "Drone Rack", "Propeller Holder", "Control Station", "Live Feed Display",
+      "Navigation Console", "Battery Bank Stand", "Parts Cabinet", "Repair Bench", "Flight Zone Sign",
+      "Launch Mat", "Weather Station Rack", "Signal Booster Pole", "Safety Net Frame", "Storage Box",
+      "Curtain Divider", "Tool Shelf", "Clock", "Flight Map Board", "Other"
+    ]
+  },
+  "109. Adventure & Survival": {
+    "Base Camp": [
+      "Tent Rack", "Campfire Stand", "Sleeping Bag Shelf", "Gear Hanger", "Compass Board",
+      "Ration Supply Cabinet", "Water Jug Rack", "First Aid Box", "Binocular Shelf", "Lantern Stand",
+      "Map Table", "Raincoat Hook", "Cooking Pot Stand", "Portable Stool", "Backpack Shelf",
+      "Curtain", "Toolbox Frame", "Clock", "Signal Flag Pole", "Other"
+    ],
+    "Training Ground": [
+      "Obstacle Course Frame", "Climbing Wall Stand", "Rope Holder", "Safety Helmet Shelf", "Emergency Station",
+      "Drill Bench", "Instructor Podium", "First Aid Frame", "Training Mats", "Sandbag Rack",
+      "Curtain Divider", "Flag Holder", "Notice Board", "Storage Bin", "Hydration Station",
+      "Timer Stand", "Protective Gear Hook", "Whiteboard", "Speaker Mount", "Other"
+    ]
+  },
+  "110. Diplomacy & International Relations": {
+    "Embassy Office": [
+      "Ambassador Desk", "Flag Pole", "Country Map Frame", "Visitor Sofa", "Reception Counter",
+      "Meeting Table", "Conference Screen", "Security Console", "Document Rack", "Coffee Table",
+      "Clock", "Curtains", "Certificate Display", "Wall Art", "Audio Console",
+      "Diplomatic Seal Mount", "Bookcase", "Lighting Fixture", "Signage Board", "Other"
+    ],
+    "Consulate Lounge": [
+      "Passport Service Desk", "Waiting Chair", "Information Counter", "Notice Board", "Signage Frame",
+      "TV Stand", "Water Dispenser", "Couch", "Fan", "Clock",
+      "Brochure Rack", "Lighting Unit", "Visitor Register Table", "Display Wall", "Queue Barrier",
+      "Power Socket Frame", "Curtain Divider", "Magazine Rack", "Document Holder", "Other"
+    ]
+  },
+  "111. Coastal Spaces": {
+    "Beach Lounge": [
+      "Sun Lounger", "Beach Umbrella", "Towel Rack", "Outdoor Sofa", "Ice Bucket Table",
+      "Canopy Bed", "Foot Wash Station", "Side Table", "Curtains", "Sand Mat",
+      "Lighting Pole", "Outdoor Fan", "Speaker Cabinet", "Drinks Cooler", "Changing Tent",
+      "Shade Canopy", "Beach Bar Shelf", "Storage Basket", "Decorative Plants", "Other"
+    ],
+    "Coastal Deck": [
+      "Rattan Chair", "Glass Table", "Planter Stand", "Seashell Art Rack", "Wind Chime Mount",
+      "Swing Bench", "Deck Light", "Reading Nook Bench", "Curtains", "Lantern Pole",
+      "Storage Chest", "Deck Chair", "Table Umbrella", "Fishing Rod Stand", "Bottle Rack",
+      "Speaker Stand", "Beach Sign Board", "Outdoor Mat", "Seating Pad", "Other"
+    ]
+  },
+  "112. Sound & Music Spaces": {
+    "Recording Studio": [
+      "Sound Console", "Mic Stand", "Isolation Booth Frame", "Monitor Shelf", "Acoustic Panel",
+      "Instrument Rack", "Mixer Stand", "Recording Chair", "Cable Organizer", "Lighting Fixture",
+      "Curtains", "Soundproof Divider", "Laptop Table", "Music Sheet Holder", "Clock",
+      "Storage Drawer", "Editing Desk", "Amp Shelf", "Speaker Box Frame", "Other"
+    ],
+    "Music Room": [
+      "Keyboard Stand", "Guitar Rack", "Drum Throne", "Sheet Music Stand", "Piano Bench",
+      "Instrument Cabinet", "Amp Stand", "Chair", "Curtains", "Lighting Panel",
+      "Wall Panel", "Shelf Unit", "Recording Console", "Music Book Shelf", "Fan",
+      "Clock", "Whiteboard", "Storage Chest", "Trophy Rack", "Other"
+    ]
+  },
+  "113. Storage & Warehouse": {
+    "Warehouse": [
+      "Pallet Rack", "Trolley", "Forklift Charging Dock", "Wall Cabinet", "Inventory Shelf",
+      "Label Holder", "Safety Divider", "Packing Table", "Weighing Machine Shelf", "Conveyor Stand",
+      "Storage Bin", "Security Mirror", "Lighting Unit", "Floor Marker Frame", "Curtains",
+      "Loading Platform Shelf", "Monitor Stand", "Air Vent Cover", "Lockbox Shelf", "Other"
+    ],
+    "Back Store": [
+      "Stock Rack", "Label Shelf", "Packing Counter", "Return Tray", "Curtain Divider",
+      "Register Desk", "Box Organizer", "Storage Crate Shelf", "Packaging Supplies Cabinet", "Fan Unit",
+      "Clock", "Drawer Chest", "Lighting Pole", "Clipboard Hook", "Safety Sign Board",
+      "Shelving Ladder", "Mirror", "Curtains", "Document Rack", "Other"
+    ]
+  },
+  "114. Cultural & Heritage": {
+    "Traditional Hut": [
+      "Wooden Stool", "Clay Pot Stand", "Woven Mat Display", "Fireplace Frame", "Drum Rack",
+      "Shield Display Mount", "Cultural Mask Holder", "Curtains", "Spear Stand", "Cooking Tools Shelf",
+      "Storage Pot Rack", "Bamboo Shelf", "Basket Stand", "Decorative Cloth Hanger", "Herbal Tray",
+      "Traditional Art Frame", "Hut Door Panel", "Cultural Poster Frame", "Clock", "Other"
+    ],
+    "Shrine": [
+      "Altar Table", "Offering Stand", "Prayer Rug Rack", "Incense Holder", "Curtains",
+      "Symbolic Art Frame", "Donation Box", "Lighting Fixture", "Statue Platform", "Bell Frame",
+      "Water Bowl Stand", "Spiritual Tools Shelf", "Floral Tray", "Oil Lamp Stand", "Prayer Board",
+      "Mirror", "Ceremonial Cloth Rack", "Seat Mat Frame", "Clock", "Other"
+    ]
+  },
+  "115. Retirement & Assisted Living": {
+    "Senior Lounge": [
+      "Recliner Chair", "TV Console", "Side Table", "Curtains", "Walker Holder Rack",
+      "Medication Cabinet", "Armchair", "Reading Lamp", "Magazine Shelf", "Plant Stand",
+      "Rocking Chair", "Fireplace Frame", "Knit Basket Shelf", "Dining Tray", "Fan Unit",
+      "Curtains", "Clock", "Photo Frame Shelf", "Activity Board", "Other"
+    ],
+    "Care Room": [
+      "Adjustable Bed", "Bedside Table", "IV Pole Stand", "Wheelchair Holder", "Curtains",
+      "Lamp", "Safety Rail", "Storage Cabinet", "Nursing Station Desk", "Shoe Rack",
+      "Clothes Organizer", "Mirror", "Reading Table", "Medication Rack", "Clock",
+      "Sanitizer Holder", "Whiteboard", "Laundry Basket Frame", "Curtain Divider", "Other"
+    ]
+  },
+  "116. Wildlife & Safari Lodges": {
+    "Safari Camp": [
+      "Tent Bed", "Mosquito Net Frame", "Lantern Hook", "Binocular Stand", "Safari Desk",
+      "Outdoor Chair", "Wooden Tray Table", "Storage Trunk", "Curtains", "Fan Unit",
+      "Map Frame", "Luggage Rack", "Outdoor Rug", "Fire Pit Frame", "Observation Bench",
+      "Hanging Clothes Shelf", "Light Pole", "Towel Stand", "Clock", "Other"
+    ],
+    "Lodge Lounge": [
+      "Cushion Sofa", "Coffee Table", "Decor Shelf", "Trophy Mount", "Fan Unit",
+      "Curtains", "Wood Wall Frame", "Antique Cabinet", "Lantern Stand", "Animal Art Piece",
+      "Reception Desk", "Wine Rack", "Reading Shelf", "Magazine Rack", "Drum Stool",
+      "Wall Clock", "Floor Mat", "Speaker Cabinet", "Signage Board", "Other"
+    ]
+  },
+  "117. Farm & Agricultural Spaces": {
+    "Barn": [
+      "Hay Bale Rack", "Tool Organizer", "Feeding Trough Stand", "Pitchfork Hanger", "Curtains",
+      "Workbench", "Seed Bag Shelf", "Animal Feed Storage", "Water Bucket Stand", "Door Frame",
+      "Lighting Pole", "Fan Unit", "Grooming Kit Rack", "Boot Rack", "Milk Can Holder",
+      "Ladder Shelf", "Clock", "Shovel Rack", "Animal Shelter Panel", "Other"
+    ],
+    "Greenhouse": [
+      "Plant Stand", "Watering Can Shelf", "Gardening Table", "Seed Tray Rack", "Curtains",
+      "UV Light Fixture", "Tool Shelf", "Spray Bottle Holder", "Thermometer Frame", "Fan Console",
+      "Shelf Divider", "Planter Bench", "Hose Hanger", "Humidity Sensor Shelf", "Storage Box",
+      "Clock", "Bench Seat", "Seed Organizer", "Other"
+    ]
+  },
+  "118. Maritime & Port Areas": {
+    "Port Office": [
+      "Document Desk", "Customs Rack", "Notice Board", "Dock Monitor Shelf", "Curtains",
+      "Marine Chart Display", "Tool Chest", "Security Station Table", "Fan Console", "Clock",
+      "Cabinet", "Cargo Sign Holder", "Radio Stand", "Warning Board", "Hat Hook",
+      "Wall Map Frame", "Shirt Hanger", "Footwear Stand", "Lighting Unit", "Other"
+    ],
+    "Ship Interior": [
+      "Bunk Bed", "Wardrobe", "Navigation Console", "Desk", "Curtains",
+      "Life Jacket Shelf", "Fan", "Clock", "Storage Chest", "Seating Pod",
+      "Dining Tray", "TV Shelf", "Locker", "Lighting Fixture", "Mirror",
+      "Cabinet", "Kitchenette Stand", "Magazine Rack", "Railing Hanger", "Other"
+    ]
+  },
+  "119. Urban & Public Infrastructure": {
+    "Public Plaza": [
+      "Bench", "Trash Bin", "Fountain Stand", "Lamp Post", "Information Kiosk",
+      "Clock Tower Frame", "Bike Rack", "Plant Box", "Public Art Platform", "Sign Board",
+      "Curtains", "Charging Station", "Shelter Seat", "Directional Panel", "Public Phone Stand",
+      "Newspaper Stand", "Map Display", "Flag Pole", "Seating Island", "Other"
+    ],
+    "Pedestrian Zone": [
+      "Seating Bench", "Street Light Frame", "Art Display Rack", "Tree Grate Cover", "Curtains",
+      "Water Fountain Base", "Traffic Sign Post", "Trash Receptacle", "Wi-Fi Pole", "Parking Meter Frame",
+      "Clock", "Planter Shelf", "Safety Mirror", "Info Display Console", "Street Art Base",
+      "Barrier Post", "Bike Stand", "Pavement Divider", "Notice Holder", "Other"
+    ]
+  },
+  "120. Aerospace & Aviation": {
+    "Airport Lounge": [
+      "Waiting Chair", "Coffee Table", "Power Hub Table", "Curtains", "Charging Station",
+      "TV Panel", "Snack Shelf", "Flight Info Display", "Trolley Holder", "Trash Bin",
+      "Magazine Stand", "Lamp", "Planter Rack", "Partition Divider", "Desk Console",
+      "Speaker Mount", "Clock", "Wall Art", "Information Stand", "Other"
+    ],
+    "Hangar": [
+      "Tool Cart", "Aircraft Ladder", "Engine Stand", "Parts Cabinet", "Curtains",
+      "Equipment Locker", "Lighting Pole", "Fan Unit", "Maintenance Bench", "Warning Sign",
+      "Floor Mat", "Clock", "Welding Rack", "Safety Board", "Storage Frame",
+      "Uniform Hook", "Cleaning Kit Shelf", "Workbench", "Parts Trolley", "Other"
+    ]
+  },
+  "121. Social Clubs & Associations": {
+    "Community Hall": [
+      "Stage Platform", "Folding Chairs", "Event Table", "Curtains", "Podium",
+      "Decorative Lights", "Notice Board", "Membership Rack", "Trophy Case", "Storage Cabinet",
+      "Reception Desk", "Wall Art", "Fan Unit", "Clock", "Registration Table",
+      "Water Dispenser Stand", "Queue Barrier", "Speaker Mount", "Banner Frame", "Other"
+    ],
+    "Club Room": [
+      "Gaming Table", "Display Cabinet", "Curtains", "Book Shelf", "Lounge Chair",
+      "Mini Bar Shelf", "TV Stand", "Photo Frame Rack", "Lighting Fixture", "Snack Table",
+      "Fan Unit", "Clock", "Shoe Rack", "Storage Bench", "Trophy Shelf",
+      "Game Console Unit", "Mirror", "Sign Board", "Reading Lamp", "Other"
+    ]
+  },
+  "122. Wildlife Conservation": {
+    "Research Center": [
+      "Work Desk", "Sample Storage Cabinet", "Field Equipment Rack", "Curtains", "Observation Window Frame",
+      "Data Console", "Laptop Table", "Animal Chart Board", "Protective Gear Shelf", "Specimen Table",
+      "Clock", "Refrigerated Cabinet", "Safety Equipment Hook", "Storage Chest", "Lab Sink Stand",
+      "Notice Board", "Reference Book Shelf", "Charging Station", "Lighting Unit", "Other"
+    ],
+    "Ranger Station": [
+      "Map Display Rack", "Uniform Stand", "Curtains", "Radio Console", "Helmet Rack",
+      "Boot Stand", "Weapon Storage", "Field Desk", "Binocular Holder", "First Aid Shelf",
+      "Wall Hooks", "Tool Chest", "Fan Unit", "Clock", "Luggage Rack",
+      "Flag Mount", "Storage Trunk", "Field Notebook Shelf", "Notice Board", "Other"
+    ]
+  },
+  "123. Refugee & Relief Shelters": {
+    "Temporary Shelter": [
+      "Bed Frame", "Mattress Holder", "Curtains", "Clothing Rack", "Food Basket Shelf",
+      "Water Container Stand", "Lighting Hook", "Shoe Tray", "Personal Locker", "Clock",
+      "Blanket Chest", "Storage Box", "Fan Stand", "Privacy Divider", "Signage Board",
+      "Toiletries Shelf", "Waste Bin", "Curtain Divider", "Power Hub Shelf", "Other"
+    ],
+    "Distribution Center": [
+      "Relief Package Shelf", "Registration Table", "Weighing Scale Stand", "Curtains", "Queue Line Barrier",
+      "Storage Rack", "Tarp Roll Stand", "Sorting Table", "Label Printer Stand", "Information Board",
+      "Document Holder", "Security Check Stand", "Volunteer Desk", "Notice Board", "Wall Clock",
+      "Pallet Shelf", "Water Point Counter", "Waste Disposal Bin", "Curtain Frame", "Other"
+    ]
+  },
+  "124. Technology Hubs": {
+    "Startup Office": [
+      "Open Desk", "Whiteboard Wall", "Charging Station", "Curtains", "Idea Board",
+      "Laptop Stand", "Coffee Counter", "Snack Shelf", "Wall TV Unit", "Book Shelf",
+      "Fan Console", "Clock", "Cable Organizer", "File Rack", "Conference Screen",
+      "Mic Stand", "Plant Shelf", "Task Lighting Unit", "Breakout Chair", "Other"
+    ],
+    "Innovation Lab": [
+      "3D Printer Stand", "Component Rack", "Work Table", "Circuit Board Shelf", "Curtains",
+      "Soldering Station", "Lighting Box", "Gadget Display Wall", "Storage Cabinet", "Clock",
+      "Whiteboard Panel", "Monitor Shelf", "Fan", "Tool Chest", "Idea Pin Board",
+      "Tech Poster Frame", "Chair", "Notebook Table", "Charging Bay", "Other"
+    ]
+  },
+  "125. Film & Entertainment": {
+    "Film Studio": [
+      "Director’s Chair", "Backdrop Mount", "Curtains", "Lighting Rig", "Camera Trolley",
+      "Makeup Station", "Wardrobe Rack", "Prop Table", "Green Screen Frame", "Monitor Stand",
+      "Sound Booth Wall", "Clock", "Fan Console", "Editing Desk", "Mirror",
+      "Script Holder", "Lighting Stand", "Equipment Case", "Storage Shelf", "Other"
+    ],
+    "Theater Room": [
+      "Recliner Seat", "Projector Stand", "Curtains", "Speaker Cabinet", "Ticket Booth Console",
+      "Lighting Console", "Sound Rack", "Stage Panel", "Display Sign", "Backdrop Shelf",
+      "Snack Counter", "Fan", "Wall Clock", "Magazine Rack", "Storage Bin",
+      "Movie Poster Frame", "Queue Divider", "Floor Mat", "Waste Bin", "Other"
+    ]
+  },
+  "126. Space Exploration Facilities": {
+    "Control Room": [
+      "Mission Console", "Monitor Panel", "Data Cabinet", "Curtains", "Communication Desk",
+      "Whiteboard Frame", "Clock", "Map Display Rack", "Wiring Channel Cover", "Security Console",
+      "Notebook Shelf", "Lighting Panel", "Fan Unit", "Workstation Table", "Power Backup Rack",
+      "Chair", "Safety Poster Frame", "Plan Shelf", "Report Binder Shelf", "Other"
+    ],
+    "Observatory": [
+      "Telescope Stand", "Star Map Display", "Curtains", "Chair", "Laptop Stand",
+      "Light Blocker Panel", "Whiteboard", "Fan", "Notice Board", "Sky Chart Shelf",
+      "Display Cabinet", "Clock", "Wall Panel", "Sensor Unit", "Camera Mount",
+      "Logbook Table", "Storage Box", "Reference Shelf", "Floor Rug", "Other"
+    ]
+  },
+  "127. Water-Based Attractions": {
+    "Aquarium": [
+      "Fish Tank Stand", "Curtains", "Water Filter Rack", "Information Board", "Feeding Tray Shelf",
+      "Aquatic Plant Holder", "Monitor Stand", "Ticket Booth Console", "Lighting Panel", "Clock",
+      "Cleaning Tools Rack", "Signage Board", "Storage Cabinet", "Guide Console", "Visitor Bench",
+      "Magazine Rack", "Wall Art", "Trash Bin", "Safety Chart", "Other"
+    ],
+    "Water Park": [
+      "Sun Lounger", "Curtains", "Locker Unit", "Ticket Counter", "Water Slide Monitor Stand",
+      "Fan", "Clock", "Lifeguard Chair", "Storage Bench", "Waste Bin",
+      "Notice Board", "Shower Shelf", "Changing Room Rack", "Snack Bar Shelf", "Queue Divider",
+      "Towel Rack", "Shaded Seating", "Map Frame", "Floating Device Shelf", "Other"
+    ]
+  },
+  "128. Emergency Field Camps": {
+    "Disaster HQ Tent": [
+      "Command Table", "Curtains", "Satellite Phone Console", "Whiteboard", "Chair",
+      "Map Frame", "Fan Unit", "Clock", "Power Station Stand", "Filing Cabinet",
+      "Data Board", "Flag Mount", "Medical Shelf", "Storage Bin", "Notebook Stand",
+      "Radio Rack", "Document Box", "Wall Chart", "Field Lighting Rack", "Other"
+    ],
+    "Medical Tent": [
+      "Patient Bed", "Curtains", "IV Stand", "Medical Equipment Cart", "First Aid Shelf",
+      "Monitor Rack", "Chair", "Clock", "Emergency Lighting Unit", "Screen Divider",
+      "Stethoscope Hook", "Medication Box", "Waste Bin", "Sanitizer Stand", "Doctor’s Table",
+      "Privacy Panel", "Fan Unit", "Supply Chest", "Trolley", "Other"
+    ]
+  },
+  "129. Mobile Units & Trailers": {
+    "Food Truck": [
+      "Prep Counter", "Curtains", "Grill Stand", "Refrigeration Unit", "Cash Register Console",
+      "Utensil Holder", "Condiment Shelf", "Lighting Box", "Waste Bin", "Serving Window Frame",
+      "Fan", "Clock", "Storage Drawer", "Packaging Shelf", "Water Tank Rack",
+      "Menu Board", "Ticket Printer Shelf", "Chair", "Safety Chart", "Other"
+    ],
+    "Mobile Clinic": [
+      "Patient Chair", "Curtains", "Sanitizer Rack", "Storage Cabinet", "Medical Kit Stand",
+      "Monitor Shelf", "Fan Unit", "Clock", "Equipment Chest", "Emergency Light Box",
+      "Doctor’s Table", "Trolley", "Privacy Curtain", "First Aid Shelf", "Waste Bin",
+      "Medicine Drawer", "Stethoscope Hook", "Notebook Stand", "Poster Frame", "Other"
+    ]
+  },
+  "130. Air Quality & Climate Stations": {
+    "Monitoring Station": [
+      "Air Sampler Stand", "Curtains", "Computer Console", "Gas Cylinder Rack", "Sensor Panel",
+      "Weather Chart Board", "Clock", "Fan Unit", "Data Display Stand", "Wiring Cabinet",
+      "Workbench", "Notebook Shelf", "Filter Storage Rack", "Wall Panel", "Tool Box",
+      "Map Frame", "Lighting Console", "Poster Frame", "Safety Shelf", "Other"
+    ],
+    "Weather Cabin": [
+      "Anemometer Mount", "Curtains", "Rain Gauge Shelf", "Fan Console", "Wind Vane Stand",
+      "Monitor Shelf", "Chair", "Whiteboard", "Thermometer Stand", "Wall Clock",
+      "Notebook Rack", "Wall Panel", "Tool Organizer", "Data Sheet Cabinet", "Sensor Control Panel",
+      "Lighting Unit", "Weather Chart Board", "Power Supply Frame", "Radio Stand", "Other"
+    ]
+  },
+  "131. AI Research Labs": {
+    "Machine Learning Lab": [
+      "Workstation Desk", "Whiteboard Wall", "GPU Rack", "Server Cabinet", "AI Poster Board",
+      "Monitor Stand", "Cable Organizer", "Laptop Shelf", "Clock", "Curtains",
+      "Code Library Shelf", "Data Board", "Fan Unit", "Lighting Panel", "Sensor Console",
+      "Meeting Pod Table", "Projector Mount", "Keyboard Drawer", "Break Area Stool", "Other"
+    ],
+    "Data Science Hub": [
+      "Round Table", "Analytics Whiteboard", "Storage Drawer", "Curtains", "Charts Panel",
+      "Book Rack", "Server Stand", "Laptop Dock", "Clock", "Fan",
+      "Brainstorm Board", "Lighting Strip", "Snack Shelf", "Team Work Desk", "Chair",
+      "Charging Station", "Logistics Rack", "Noise Panel", "Water Dispenser Stand", "Other"
+    ]
+  },
+  "132. Archaeology & Heritage": {
+    "Excavation Tent": [
+      "Tool Rack", "Sample Tray Shelf", "Curtains", "Findings Cabinet", "Fan",
+      "Clock", "Documentation Table", "Map Frame", "Screen Divider", "Dustbin",
+      "Sketch Board", "Storage Chest", "Artifacts Basket", "Lighting Hook", "Safety Frame",
+      "Field Chart Holder", "Field Desk", "Supply Locker", "Protective Gear Rack", "Other"
+    ],
+    "Heritage Hall": [
+      "Display Cabinet", "Artifact Stand", "Curtains", "Timeline Chart", "Clock",
+      "Lighting Box", "Interactive Panel", "Virtual Tour Console", "Seating Bench", "Podium",
+      "Plaque Shelf", "Signage Frame", "Gallery Rope Barrier", "Wall Frame", "Ceiling Projector",
+      "Exhibit Description Stand", "Feedback Station", "Brochure Rack", "Security Desk", "Other"
+    ]
+  },
+  "133. Marine Biology": {
+    "Research Ship Lab": [
+      "Lab Bench", "Curtains", "Sea Sample Rack", "Aquatic Chart Board", "Clock",
+      "Weather Device Panel", "GPS Console", "Storage Drawer", "Reference Shelf", "Sink Station",
+      "Microscope Stand", "Monitor Mount", "Safety Poster", "Navigation Table", "Fan",
+      "Lighting Frame", "Life Jacket Holder", "Radio Unit", "Cabinet", "Other"
+    ],
+    "Coastal Research Station": [
+      "Observation Desk", "Shell Display", "Curtains", "Marine Data Frame", "Clock",
+      "Lighting Fixture", "Worktable", "Cabinet", "Weather Monitor Panel", "Sample Stand",
+      "Wet Storage Box", "Computer Shelf", "Microscope Table", "Warning Sign", "Equipment Hook",
+      "Stool", "Fan Console", "Wall Art", "First Aid Box", "Other"
+    ]
+  },
+  "134. Refuge & Rehabilitation": {
+    "Rehab Center": [
+      "Counselor Table", "Therapy Couch", "Curtains", "Privacy Divider", "Clock",
+      "Wall Frame", "Storage Cabinet", "Fan", "Water Stand", "Chair",
+      "Notice Board", "Magazine Rack", "Suggestion Box", "Plant Stand", "Lighting Box",
+      "Bookshelf", "Sound Machine Console", "Document Shelf", "Reception Table", "Other"
+    ],
+    "Refuge Dormitory": [
+      "Bunk Bed", "Curtains", "Clothes Rack", "Clock", "Storage Bin",
+      "Fan", "Divider Screen", "Study Table", "Chair", "Shelf",
+      "First Aid Stand", "Sanitizer Station", "Mirror", "Bag Shelf", "Lighting Fixture",
+      "Room Label Holder", "Prayer Mat Rack", "Notice Board", "Trash Bin", "Other"
+    ]
+  },
+  "135. Virtual Reality & Gaming": {
+    "VR Arcade": [
+      "VR Pod Platform", "Curtains", "Gaming Controller Stand", "Monitor Wall", "Clock",
+      "Lighting Strip", "Headset Shelf", "Sensor Mount", "Player Mat", "Sound Panel",
+      "Gaming Chair", "Stool", "Server Cabinet", "Locker Unit", "Queue Rope",
+      "Ticket Counter", "Wall Art", "Fan Unit", "Charging Dock", "Other"
+    ],
+    "Game Development Studio": [
+      "Workstation", "Curtains", "Coding Console", "Whiteboard", "Fan",
+      "Clock", "Idea Board", "Desk Lamp", "Monitor Mount", "Snack Shelf",
+      "Storage Box", "Controller Rack", "Server Shelf", "Plant Stand", "Coffee Machine Table",
+      "VR Testing Area", "Cable Organizer", "Brainstorm Table", "Chair", "Other"
+    ]
+  },
+  "136. Urban Mobility Hubs": {
+    "Electric Charging Station": [
+      "Charging Dock", "Solar Panel Mount", "Curtains", "Bench", "Info Panel",
+      "Clock", "Fan", "Trash Bin", "Digital Board", "Canopy Frame",
+      "Bike Rack", "Display Stand", "Notice Board", "Tire Pump Rack", "Security Camera Mount",
+      "Plant Box", "Map Frame", "Screen Stand", "Power Cabinet", "Other"
+    ],
+    "Transport Lounge": [
+      "Recliner Chair", "Charging Spot", "Curtains", "Snack Bar Shelf", "Wall Clock",
+      "TV Unit", "Air Purifier Stand", "Fan Console", "Floor Lamp", "Reading Table",
+      "Water Stand", "Storage Cabinet", "Ticket Printer Shelf", "Digital Kiosk", "Magazine Stand",
+      "Signage Board", "Waste Bin", "Announcement Display", "Rug", "Other"
+    ]
+  },
+  "137. Drone Operation Zones": {
+    "Drone Assembly Lab": [
+      "Workbench", "Curtains", "Tool Rack", "Charging Station", "Drone Stand",
+      "Spare Parts Shelf", "Battery Cabinet", "Monitor Rack", "Data Console", "Fan",
+      "Clock", "Lighting Fixture", "Chair", "Wall Chart", "Safety Sign",
+      "Checklist Board", "Server Shelf", "Documentation Table", "Laptop Dock", "Other"
+    ],
+    "Drone Testing Field": [
+      "Flight Launch Pad", "Monitoring Tent", "Curtains", "Signal Pole", "Weather Station Frame",
+      "Laptop Table", "Portable Charger Rack", "Clock", "Wind Indicator Mount", "First Aid Box",
+      "Storage Box", "Radio Station Console", "Marker Cones Rack", "Boundary Sign Board", "Binocular Holder",
+      "Observer Seat", "Data Collection Unit", "Lighting Pole", "Tool Chest", "Other"
+    ]
+  },
+  "138. Humanitarian Aid Storage": {
+    "Warehouse": [
+      "Pallet Rack", "Storage Shelf", "Curtains", "Label Board", "Clock",
+      "Forklift Parking Bay", "Tool Holder", "Water Container Shelf", "Lighting Strip", "First Aid Cabinet",
+      "Loading Dock Sign", "Documentation Table", "Safety Gear Stand", "Fan", "Scale Unit",
+      "Security Booth Console", "Notice Frame", "Trash Bin", "Fire Extinguisher Box", "Other"
+    ],
+    "Packing Unit": [
+      "Packing Table", "Curtains", "Product Shelf", "Cart Stand", "Sealing Machine Console",
+      "Box Rack", "Label Printer Stand", "Lighting Unit", "Fan Console", "Clock",
+      "Sanitizer Station", "Chair", "Waste Bin", "Storage Bin", "Stationery Rack",
+      "Break Table", "Wall Chart", "Power Strip Mount", "Safety Notice", "Other"
+    ]
+  },
+  "139. Biomedical Innovation": {
+    "Genetic Lab": [
+      "PCR Machine Stand", "Curtains", "Sample Storage Rack", "Freezer Cabinet", "Work Bench",
+      "Laptop Shelf", "Clock", "Biohazard Bin", "Sterilization Unit", "Lighting Box",
+      "Notebook Rack", "Documentation Table", "Fan Unit", "Glove Dispenser", "Data Console",
+      "Specimen Tray", "Chemical Storage Cabinet", "First Aid Box", "Protective Eyewear Shelf", "Other"
+    ],
+    "Bioengineering Studio": [
+      "Model Display Stand", "Prototype Rack", "Curtains", "Work Table", "Lighting Unit",
+      "Fan", "Clock", "3D Bioprinter Console", "Sample Container Shelf", "Sink Unit",
+      "Reference Book Rack", "Whiteboard", "Project Binder", "Test Kit Rack", "Glove Shelf",
+      "Plant Sample Display", "Coat Hanger", "Digital Screen", "Chair", "Other"
+    ]
+  },
+  "140. Cultural Centers": {
+    "Community Theater": [
+      "Stage Platform", "Curtains", "Lighting Rig", "Sound Booth", "Backstage Rack",
+      "Props Shelf", "Wardrobe Cabinet", "Fan Unit", "Clock", "Seating Bench",
+      "Spotlight Stand", "Backdrop Frame", "Registration Table", "Display Board", "Queue Barrier",
+      "Poster Frame", "Mic Stand", "AV Console", "Green Room Sofa", "Other"
+    ],
+    "Cultural Gallery": [
+      "Exhibit Wall Frame", "Curtains", "Artifacts Shelf", "Lighting Unit", "Sign Board",
+      "Reception Desk", "Display Case", "Visitor Bench", "Clock", "Fan",
+      "Art Panel", "Storage Drawer", "Info Chart", "Media Player Stand", "Wall Art",
+      "Donation Box", "Trophy Stand", "Notice Board", "Feedback Frame", "Other"
+    ]
+  },
+  "141. Tattoo & Piercing Studios": {
+    "Tattoo Parlor": [
+      "Tattoo Chair", "Ink Station", "Tool Trolley", "Armrest Stand", "Needle Storage",
+      "Stencil Printer Cabinet", "Glove Dispenser", "Sanitizer Stand", "Aftercare Product Shelf", "Trash Bin",
+      "Sterilization Cabinet", "Wall Art Display", "Lighting Fixture", "Waiting Bench", "Design Consultation Desk",
+      "Mirror", "Curtains", "Air Purifier", "Reception Counter", "Other"
+    ],
+    "Piercing Studio": [
+      "Piercing Chair", "Jewelry Display Case", "Sterile Equipment Cabinet", "Sanitizer Dispenser", "Gloves Rack",
+      "Needle Tray", "Ear Marking Station", "Waste Bin", "Reception Desk", "Lighting Fixture",
+      "Mirror Panel", "Consultation Table", "Disinfectant Stand", "Tissue Shelf", "Signage Frame",
+      "Brochure Holder", "Waiting Area Seat", "Safety Chart Board", "Aftercare Shelf", "Other"
+    ]
+  },
+  "142. Virtual Reality & Gaming Zones": {
+    "VR Gaming Room": [
+      "VR Pod", "Gaming Console Stand", "Headset Rack", "Motion Sensor Mount", "LED Lighting Strip",
+      "Gaming Chair", "Storage Locker", "Cable Organizer", "Charging Station", "Soundproof Panel",
+      "TV Console", "Cooling Fan", "Shoe Rack", "Curtains", "Monitor Stand",
+      "Wall Mat", "Safety Border", "Projector Mount", "Floor Marker", "Other"
+    ],
+    "Arcade Room": [
+      "Arcade Cabinet", "Token Dispenser", "High Score Board", "Seating Booth", "Prize Shelf",
+      "Game Controller Rack", "Wall Art", "Lighting Fixture", "Trash Bin", "Charging Dock",
+      "Wall Clock", "Poster Frame", "Sound System", "Coin Collector Cabinet", "Merchandise Shelf",
+      "Score Display Panel", "Fan Unit", "Safety Notice Frame", "Reception Counter", "Other"
+    ]
+  },
+  "143. Forensic & Investigation Labs": {
+    "Crime Lab": [
+      "Evidence Storage Cabinet", "Sample Table", "Test Tube Rack", "Digital Microscope Station", "DNA Analysis Stand",
+      "Fingerprint Kit Drawer", "Work Bench", "Glove Dispenser", "Reagent Shelf", "Lighting Console",
+      "File Drawer", "Labeling Machine", "Laptop Stand", "Camera Mount", "Protective Gear Rack",
+      "Security Cabinet", "Air Vent Stand", "Specimen Jar Holder", "Signage Board", "Other"
+    ],
+    "Interrogation Room": [
+      "Interrogation Table", "Chairs", "Sound Recorder Stand", "Lighting Panel", "Two-way Mirror Frame",
+      "Security Camera Mount", "Note Shelf", "Wall Clock", "Trash Bin", "Curtains",
+      "Signage Frame", "Desk Lamp", "Safety Button Console", "Monitoring Stand", "Ventilation Grate",
+      "File Cabinet", "TV Screen Mount", "Speaker Console", "Document Shelf", "Other"
+    ]
+  },
+  "144. Childcare & Daycare": {
+    "Nursery Room": [
+      "Crib", "Changing Table", "Toy Storage Cabinet", "High Chair", "Bottle Warmer Stand",
+      "Baby Monitor Console", "Curtains", "Baby Rocker", "Play Mat", "Wall Art",
+      "Storage Basket", "Sanitizer Station", "Feeding Shelf", "Parent Information Board", "Blanket Shelf",
+      "Soft Lighting Unit", "Mobile Toy Hanger", "Clothing Organizer", "Waste Bin", "Other"
+    ],
+    "Play Area": [
+      "Ball Pit Frame", "Slide Stand", "Activity Table", "Toy Organizer", "Safety Padding",
+      "Cushioned Bench", "Game Console Stand", "Bookshelf", "Interactive Wall Board", "Toy Kitchen Unit",
+      "Curtains", "Fan Unit", "Storage Bin", "Whiteboard", "Drawing Table",
+      "Shoe Rack", "Cleaning Cabinet", "Hand Wash Station", "Music Corner Rack", "Other"
+    ]
+  },
+  "145. Sustainable & Eco-Spaces": {
+    "Eco Home": [
+      "Solar Panel Console", "Compost Bin Stand", "Water Purifier Cabinet", "Rainwater Collection Barrel", "Recycled Wood Shelf",
+      "LED Light Fixture", "Planter Box", "Energy Monitor Shelf", "Eco Cleaning Rack", "Natural Fiber Rug",
+      "Curtains", "Thermal Insulation Panel", "Herb Garden Frame", "Upcycled Decor Shelf", "Eco Paint Shelf",
+      "Bamboo Table", "Organic Waste Basket", "Biodegradable Supply Rack", "Wind Energy Model", "Other"
+    ],
+    "Recycling Center": [
+      "Recyclable Sorter Unit", "Material Bin Stand", "Glass Crusher Cabinet", "Paper Compactor Console", "Plastic Bale Rack",
+      "Labeling Station", "Signage Board", "Weighing Scale Table", "Instruction Display", "Curtains",
+      "Shredder Station", "Monitor Shelf", "Training Chart", "Storage Cabinet", "Safety Poster Frame",
+      "Wall Clock", "Glove Rack", "First Aid Box", "Ventilation Unit", "Other"
+    ]
+  },
+  "146. Urban Farming": {
+    "Indoor Hydroponics": [
+      "Grow Rack", "LED Grow Light Stand", "Watering System Table", "pH Meter Shelf", "Nutrient Cabinet",
+      "Seedling Tray", "Plant Monitoring Console", "Air Circulation Fan", "Curtains", "Wall Chart",
+      "Storage Bin", "Spray Bottle Rack", "Measuring Cup Tray", "Harvest Box", "Label Station",
+      "Work Bench", "Temperature Monitor", "Grow Tent Stand", "Power Outlet Strip", "Other"
+    ],
+    "Rooftop Garden": [
+      "Planter Bench", "Compost Barrel", "Tool Storage Cabinet", "Water Hose Reel", "Outdoor Seating",
+      "Shaded Canopy", "Trellis Frame", "Rainwater Collector", "Greenhouse Stand", "Vertical Garden Panel",
+      "Curtains", "Garden Light Pole", "Bin for Soil", "Plant Label Box", "Weather Display",
+      "Solar Light Stand", "Gloves Hook", "Hand Tool Shelf", "Fence Divider", "Other"
+    ]
+  },
+  "147. Security & Surveillance": {
+    "Security Control Room": [
+      "Monitor Wall", "Operator Desk", "Communication Console", "Power Backup Rack", "Cable Organizer",
+      "File Drawer", "Lighting Panel", "Air Conditioner Stand", "CCTV Screen Mount", "Whiteboard",
+      "Walkie Talkie Station", "Clock", "Signage", "Server Cabinet", "Curtains",
+      "Document Shelf", "Tool Drawer", "Alarm Console", "Speaker Box", "Other"
+    ],
+    "Surveillance Post": [
+      "Observation Chair", "Binocular Stand", "Recording Console", "Map Rack", "Storage Drawer",
+      "Lighting Fixture", "Communication Radio Shelf", "Power Backup Inverter", "Curtains", "Notepad Stand",
+      "Equipment Cabinet", "Camera Mount", "Clock", "Emergency Alarm", "Fire Extinguisher Bracket",
+      "Ventilation Panel", "Bulletproof Window Frame", "Protective Gear Box", "Battery Stand", "Other"
+    ]
+  },
+  "148. Pet Care & Veterinary": {
+    "Vet Clinic": [
+      "Examination Table", "Medicine Shelf", "Animal Cage Unit", "IV Stand", "Waiting Bench",
+      "Reception Counter", "X-ray Table", "Sample Collection Tray", "Sink Cabinet", "Sanitizer Stand",
+      "Curtains", "Surgical Tool Rack", "Waste Bin", "Towel Shelf", "Sterilizer Cabinet",
+      "Notice Board", "Animal Scale", "Medical Record File Drawer", "Clock", "Other"
+    ],
+    "Pet Grooming Room": [
+      "Grooming Table", "Pet Bathtub", "Brush Shelf", "Towel Rack", "Hair Dryer Stand",
+      "Clippers Cabinet", "Collar Display", "Mirror", "Curtains", "Waste Bin",
+      "Pet Carrier Rack", "Storage Drawer", "Water Spray Stand", "Lighting Fixture", "Air Freshener Box",
+      "Clothing Rack", "Name Tag Shelf", "Appointment Board", "Safety Poster", "Other"
+    ]
+  },
+  "149. Elderly Care & Assisted Living": {
+    "Assisted Living Room": [
+      "Recliner Chair", "Walker Stand", "Medication Cabinet", "Reading Lamp", "Side Table",
+      "TV Stand", "Curtains", "Comfort Rug", "Nursing Call Console", "Wall Art",
+      "Support Rail", "Clock", "Fan Unit", "Storage Cabinet", "Personal Organizer Shelf",
+      "Wheelchair Rack", "Safety Chart", "Grab Bar", "Mirror", "Other"
+    ],
+    "Medical Room": [
+      "Hospital Bed", "Drip Stand", "Oxygen Cylinder Trolley", "Patient Monitor Shelf", "First Aid Drawer",
+      "Curtains", "Visitor Chair", "Tray Table", "Vital Sign Station", "Record File Cabinet",
+      "Fan", "Wall Clock", "Reading Stand", "Blanket Rack", "Lighting Fixture",
+      "Disinfectant Station", "Bedside Cabinet", "IV Fluid Shelf", "Nurse Station Console", "Other"
+    ]
+  },
+  "150. Maritime & Ports": {
+    "Harbor Office": [
+      "Captain’s Desk", "Chart Table", "Weather Display Panel", "Marine Radio Console", "Flag Stand",
+      "Notice Board", "Storage Drawer", "Clock", "Marine Signal Light", "Curtains",
+      "Lifeboat Model Display", "Cabinet", "Document Rack", "Chair", "Pen Stand",
+      "Anchor Art Frame", "Radio Antenna Shelf", "Telescope Mount", "Visitor Log Table", "Other"
+    ],
+    "Docking Area": [
+      "Cargo Trolley", "Safety Cone Rack", "Loading Ramp Platform", "Dock Bench", "Lighting Post",
+      "Safety Signage", "Marine Barrier Stand", "Tool Box Cabinet", "Bollard Frame", "Mooring Line Rack",
+      "Life Ring Stand", "Dock Ladder", "Signal Board", "Weather Cover Roof", "Storage Bin",
+      "Water Hose Reel", "Fire Extinguisher Box", "Notice Panel", "Binocular Stand", "Other"
+    ]
+  },
+  "151. Outdoor Recreation": {
+    "Camping": [
+      "Tent Stand", "Campfire Pit", "Sleeping Bag Shelf", "Lantern Holder", "Portable Stove Table",
+      "Cooler Box Stand", "Folding Chair", "Picnic Table", "Tarp Rack", "Hiking Gear Shelf",
+      "Bug Spray Station", "First Aid Box", "Trash Can", "Portable Shower Stand", "Utensil Organizer",
+      "Camp Grill Rack", "Firewood Storage", "Water Jug Shelf", "Clothing Line Stand", "Other"
+    ],
+    "Road Trip": [
+      "Car Organizer", "Cooler Compartment", "Snack Tray", "Tablet Mount", "Backseat Storage Bin",
+      "Neck Pillow Shelf", "Charging Dock", "Foldable Table", "Window Shade", "Overhead Storage Net",
+      "Travel Mug Holder", "Blanket Compartment", "Shoe Storage Pouch", "Trash Bag Clip", "Entertainment Holder",
+      "Document Organizer", "Camera Mount", "Pet Seat Cover", "Car Bed Setup", "Other"
+    ]
+  },
+
+  "152. Nature & Conservation": {
+    "Wildlife Center": [
+      "Animal Feed Shelf", "Vet Table", "Cage Stand", "Observation Bench", "Display Case",
+      "Educational Board", "Donation Box", "Animal ID Sign", "First Aid Cabinet", "Storage Bin",
+      "Trash Bin", "Feeding Station", "Fence Panel", "Water Dispenser", "Planter Stand",
+      "Sanitizer Rack", "Weather Shelter", "Information Kiosk", "Volunteer Station", "Other"
+    ],
+    "Forest Cabin": [
+      "Wood Stove Stand", "Bunk Bed Frame", "Lantern Hook", "Rocking Chair", "Fireplace Mantel",
+      "Outdoor Table", "Log Bench", "Curtain Rod", "Tool Rack", "Blanket Chest",
+      "Shoe Rack", "Coat Hook", "Wall Clock", "First Aid Box", "Kitchen Rack",
+      "Sleeping Platform", "Backpack Hook", "Reading Nook", "Wood Stack Holder", "Other"
+    ]
+  },
+  "153. Adventure Parks & Ziplining": {
+    "Climbing Area": [
+      "Harness Hanger", "Rope Bin", "Helmet Rack", "Safety Mat Rack", "Wall Grip Stand",
+      "First Aid Stand", "Shoe Organizer", "Instruction Board", "Water Station", "Snack Shelf",
+      "Towel Rack", "Locker Shelf", "Glove Compartment", "Lighting Stand", "Timer Console",
+      "Wall Fan", "Step Stool", "Tool Station", "Check-in Table", "Other"
+    ],
+    "Zipline Deck": [
+      "Platform Railing", "Safety Signboard", "Harness Storage", "Helmet Station", "Zipline Console",
+      "Loading Step", "Shoe Bench", "Water Cooler Stand", "Instruction Kiosk", "Equipment Box",
+      "Emergency Kit Shelf", "Bag Storage", "Inspection Post", "Weight Limit Chart", "Speed Sensor Shelf",
+      "Lighting Panel", "Radio Mount", "Monitor Station", "Backup Brake Mount", "Other"
+    ]
+  },
+  "154. Festival & Concert Grounds": {
+    "Main Stage": [
+      "Speaker Stand", "Microphone Mount", "Light Rig", "Curtain Frame", "Monitor Console",
+      "Step Platform", "Backdrop Structure", "Performer Bench", "Instrument Stand", "Control Table",
+      "Power Strip Mount", "AV Cabinet", "Timer Clock", "Cue Light", "Banner Holder",
+      "Camera Tripod Rack", "Water Station", "Safety Rail", "Cue Card Stand", "Other"
+    ],
+    "Vendor Booths": [
+      "Display Shelf", "Table Stand", "Tent Frame", "Menu Board", "Counter Rack",
+      "Cash Box Shelf", "POS System Stand", "Cooler Shelf", "Snack Rack", "Lighting Hook",
+      "Brochure Holder", "Product Tray", "Waste Bin", "Hand Sanitizer Rack", "Bag Shelf",
+      "Chalkboard Menu", "Utensil Stand", "Queue Divider", "Storage Bin", "Other"
+    ]
+  },
+
+  "155. Beach & Coastal Areas": {
+    "Beach Lounge": [
+      "Sunbed", "Towel Rack", "Umbrella Stand", "Cooler Box Shelf", "Beach Mat Holder",
+      "Deck Chair", "Side Table", "Swimwear Hanger", "Sunscreen Station", "Snack Bin",
+      "Shade Canopy", "Foot Wash Stand", "Book Shelf", "Headrest Shelf", "Shell Display",
+      "Radio Stand", "Lighting Pole", "Drinks Tray", "Phone Pouch Rack", "Other"
+    ],
+    "Lifeguard Post": [
+      "High Chair", "Whistle Hook", "Rescue Tube Rack", "First Aid Shelf", "Binoculars Stand",
+      "Radio Console", "Water Cooler", "Notice Board", "Emergency Chart", "Clock Mount",
+      "Megaphone Hook", "Tide Chart Board", "Sun Visor Stand", "Medical Bag Shelf", "Swim Fin Rack",
+      "Uniform Rack", "Sunscreen Stand", "Phone Charger Dock", "Logbook Stand", "Other"
+    ]
+  },
+
+  "156. Community Spaces": {
+    "Public Square": [
+      "Benches", "Lighting Pole", "Information Board", "Clock Tower Mount", "Planter Box",
+      "Trash Bin", "Stage Platform", "Flag Pole", "Art Sculpture Base", "Fountain Cabinet",
+      "Notice Frame", "Seating Canopy", "Bike Rack", "Gazebo Seat", "Picnic Table",
+      "Fence Unit", "Public Phone Stand", "Water Tap Stand", "Security Booth Shelf", "Other"
+    ],
+    "Community Garden": [
+      "Tool Shed Rack", "Planter Stand", "Bench", "Seed Organizer", "Fertilizer Shelf",
+      "Watering Can Holder", "Garden Table", "Fence Panel", "Greenhouse Frame", "Trellis Stand",
+      "Compost Bin", "Wheelbarrow Rest", "Glove Rack", "Harvest Basket Shelf", "Shade Net Holder",
+      "Signage Board", "First Aid Box", "Logbook Stand", "Bug Repellent Station", "Other"
+    ]
+  },
+
+  "157. Humanitarian & Aid Camps": {
+    "Relief Shelter": [
+      "Bunk Frame", "Mat Roll Rack", "Water Container Shelf", "Clothes Hook", "Privacy Curtain Rod",
+      "Lighting Fixture", "Document Bin", "Food Tray Rack", "Hygiene Kit Shelf", "Hand Wash Station",
+      "Fan Stand", "Towel Rack", "Storage Box", "Emergency Exit Sign", "Tool Stand",
+      "Curtains", "Shoes Box", "Medical Board", "Donations Locker", "Other"
+    ],
+    "Volunteer Station": [
+      "Registration Table", "Laptop Rack", "Sanitization Hub", "Information Banner Stand", "Tote Shelf",
+      "Communication Stand", "Fan Unit", "Notice Board", "Clock", "Waste Bin",
+      "Whiteboard", "Meeting Desk", "Trophy Case", "Water Bottle Stand", "Wall Art",
+      "Cabinet", "Glove Shelf", "Curtains", "Printer Station", "Other"
+    ]
+  },
+
+  "158. Emergency Shelters": {
+    "Disaster Relief Hub": [
+      "First Aid Rack", "Information Board", "Mattress Stack", "Water Stand", "Cooking Kit Shelf",
+      "Curtain Divider", "Document Safe", "Volunteer Desk", "Waste Bin", "Clock",
+      "Shoe Rack", "Medical Supply Shelf", "Stretcher Rack", "Blanket Stand", "Torch Holder",
+      "Mask Shelf", "Hand Sanitizer Rack", "Storage Bin", "Fan Mount", "Other"
+    ],
+    "Field Kitchen": [
+      "Cooking Stove Stand", "Pot Rack", "Cutlery Organizer", "Food Prep Table", "Water Container Shelf",
+      "Portable Sink", "Gas Cylinder Rack", "Cupboard", "Spice Shelf", "Lighting Hook",
+      "Apron Hook", "Serving Tray Holder", "Dishwashing Area", "Menu Board", "Clock",
+      "Fire Extinguisher Hook", "Utensil Drawer", "Cooler Chest", "Condiment Rack", "Other"
+    ]
+  },
+
+  "159. Hiking & Mountaineering Base": {
+    "Base Camp": [
+      "Tent Platform", "Sleeping Bag Shelf", "Campfire Bench", "Gear Rack", "Boot Tray",
+      "Lantern Hook", "First Aid Rack", "Clothing Hanger", "Food Storage Box", "Cooking Station",
+      "Trash Bin", "Shoe Stand", "Water Dispenser", "Map Holder", "Logbook Table",
+      "Rope Hook", "Helmet Shelf", "Safety Checklist Board", "Drying Line", "Other"
+    ],
+    "Trail Cabin": [
+      "Bunk Bed", "Gear Shelf", "Lantern Hook", "Curtain Rod", "Table",
+      "Chair", "Shoe Rack", "Firewood Stack", "Stove Base", "Food Shelf",
+      "Cleaning Tools Hook", "Tool Box Shelf", "Clock", "Charging Socket Rack", "Rug",
+      "Coat Hanger", "Waste Bin", "Window Covering", "Mirror Mount", "Other"
+    ]
+  },
+
+  "160. Boating & Marine Areas": {
+    "Dock Station": [
+      "Boat Tie Hook", "Life Jacket Rack", "Fishing Rod Stand", "Cooler Bin", "Rope Organizer",
+      "Navigation Chart Holder", "Deck Mat", "Water Hose Rack", "Storage Box", "Fuel Station Shelf",
+      "Trash Bin", "Lighting Pole", "Tool Chest", "Anchor Hook", "Boat Ladder",
+      "Radio Console", "Life Buoy Stand", "Wet Gear Hanger", "Clock Mount", "Other"
+    ],
+    "Fishing Cabin": [
+      "Rod Rack", "Tackle Box Shelf", "Cooler Stand", "Fish Cleaning Table", "Drying Rack",
+      "Storage Cabinet", "Lantern Hook", "Wall Clock", "Bait Shelf", "Chair",
+      "Bed Frame", "Boot Tray", "Fishing Net Hanger", "Tool Organizer", "TV Stand",
+      "Curtains", "Heating Unit", "Radio Stand", "Fan Unit", "Other"
+    ]
+  },
+  "161. Wildlife & Pet Areas": {
+    "Bird House": [
+      "Hanging Wooden House", "Wall-mounted Bird Box", "Ceramic Nesting Pot",
+      "Gazebo Style Feeder", "Gourd Birdhouse", "Decorative Cottage House",
+      "Multi-chamber House", "Glass-fronted Viewing Box", "Pole-mounted Birdhouse",
+      "Suction Window Bird Box", "Green Roof Bird Home", "Two-level Nesting House",
+      "Metal Roof Bird Shelter", "Log-style House", "Bamboo Bird House",
+      "Swinging Bird Feeder", "Tray Platform Bird Home", "Insect Roof Combo House",
+      "Hand-painted Art House", "Other"
+    ],
+    "Animal Shelter": [
+      "Wooden Kennel", "Insulated Dog House", "Plastic Cat House",
+      "Outdoor Rabbit Hutch", "Chicken Coop Stand", "Tortoise Hide Box",
+      "Weatherproof Goat Shed", "Raised Pet Cabin", "Hamster Enclosure Frame",
+      "Ferret Tunnel Box", "Fish Tank Enclosure", "Pet Crate Frame",
+      "Portable Shelter Kennel", "Multi-Pet Shelter", "Hay-Base Shelter",
+      "Mesh Window Kennel", "Roofed Animal Cage", "PVC Outdoor Shelter",
+      "Bird & Small Animal Combo Unit", "Other"
+    ]
+  },
+  "162. Water Features & Aquascaping": {
+    "Fountains": [
+      "Wall-mounted Fountain", "Tiered Garden Fountain", "Solar Water Fountain",
+      "Indoor Tabletop Fountain", "Rock Cascade Fountain", "Bird Bath Fountain",
+      "LED-lit Fountain", "Floating Fountain Disk", "Miniature Bamboo Fountain",
+      "Marble Base Fountain", "Resin Sculpture Fountain", "Mosaic Tile Fountain",
+      "Waterfall Fountain", "Floor-standing Fountain", "Wall Niche Fountain",
+      "Fish Pond Fountain", "Terrace Fountain", "Fountain with Planter Base",
+      "Corner Deck Fountain", "Other"
+    ],
+    "Glass Box Aquarium Displays": [
+      "Wall-mounted Fish Tank", "Corner Aquarium", "Freestanding Glass Box",
+      "LED-lit Fish Display", "Reef Tank Structure", "Planted Aquarium Tank",
+      "School Tank Display", "Acrylic Box Aquarium", "Double-sided View Tank",
+      "Mini Cube Aquarium", "Under-stair Aquarium", "Desktop Nano Aquarium",
+      "Custom Theme Tank", "Open-top Display Box", "Curved Glass Aquarium",
+      "Hanging Aquarium Frame", "Multi-level Tank Design", "Divider Wall Aquarium",
+      "Mobile Aquarium Cart", "Other"
+    ]
+  },
+  "163. Road Trip & Travel": {
+    "RV & Camper Interior": [
+      "Foldable Table", "Convertible Sofa Bed", "Modular Storage Cabinet",
+      "Compact Sink Unit", "Built-in Cupboard", "LED Ceiling Light",
+      "Pull-out Pantry", "Camping Chair Rack", "Curtain Divider",
+      "Mini Dining Booth", "Overhead Bin", "Microwave Frame", "Bed Compartment",
+      "Fold-down Desk", "Shoe Cubby", "Portable Toilet Stand", "Bookshelf Rack",
+      "Cooking Counter", "Emergency Kit Shelf", "Other"
+    ],
+    "Camping Setup": [
+      "Tent Stand", "Cooking Station Frame", "Sleeping Mat Base",
+      "Campfire Log Seat", "Hanging Lantern Hook", "Cooler Rack",
+      "Rain Cover Frame", "Picnic Table Setup", "Drying Line Post",
+      "Camping Chair Holder", "Tarp Shelter Frame", "Water Jug Stand",
+      "First Aid Rack", "Tool Organizer", "Backpack Holder", "Trash Bag Frame",
+      "Footwear Tray", "Privacy Curtain Stand", "Portable Shower Unit", "Other"
+    ]
+  },
+  "164. Beach & Leisure": {
+    "Beach Lounge Area": [
+      "Beach Chair Rack", "Sun Umbrella Stand", "Towel Cabinet",
+      "Floating Tray Holder", "Sun Lounger Frame", "Shade Tent Frame",
+      "Water Bottle Rack", "Foldable Table", "Sunscreen Dispenser Frame",
+      "Sand-resistant Storage Bin", "Music Dock Station", "Cooler Holder",
+      "Sand Mat Roller", "Footwash Basin", "Beach Games Shelf",
+      "Dry Bag Hanger", "Hammock Post", "Privacy Curtain Stand", "Shelter Tent Base", "Other"
+    ],
+    "Water Sports Station": [
+      "Surfboard Rack", "Wetsuit Hanger", "Snorkel Shelf", "Gear Drying Rack",
+      "Life Jacket Cabinet", "Towel Heater Box", "Waterproof Locker",
+      "Helmet Storage", "Goggle Rack", "Paddleboard Stand", "Inflatable Pump Holder",
+      "Kayak Storage Rack", "Jet Ski Dock Frame", "Sand Anchor Post",
+      "Water Bottle Cage", "Underwater Camera Station", "Charging Box",
+      "First Aid Stand", "Repair Kit Cabinet", "Other"
+    ]
+  },
+  "165. Boathouse & Dock": {
+    "Dockside Seating Area": [
+      "Bench Frame", "Deck Chair Holder", "Table Frame", "Fishing Rod Stand",
+      "Safety Ring Rack", "Life Jacket Hanger", "Dock Umbrella Mount",
+      "Cooler Box Stand", "Boat Shoe Tray", "Waterproof Storage Bin",
+      "Lighting Pole", "Lantern Rack", "Fishing Net Hook", "Anchor Chain Rack",
+      "Sun Shade Stand", "Drink Holder Frame", "Foldable Seat Post", "Tool Hanger",
+      "Cleaning Station Shelf", "Other"
+    ],
+    "Boathouse Interior": [
+      "Storage Cabinet", "Boat Parts Shelf", "Engine Rack", "Water Tank Box",
+      "Dry Gear Cabinet", "First Aid Cabinet", "Electrical Box",
+      "Navigation Equipment Rack", "Fish Finder Console", "Wall Hooks",
+      "Oar Hanger", "Rope Shelf", "Towel Cabinet", "Chair Mount",
+      "Fan Mount", "Safety Gear Shelf", "Workbench Frame", "Battery Rack",
+      "Wall Clock", "Other"
+    ]
+  },
+  "166. Adventure Parks": {
+    "Climbing Zone": [
+      "Harness Rack", "Helmet Hook", "Chalk Station", "Rope Organizer",
+      "Step Box Frame", "Climbing Shoe Rack", "Signage Board",
+      "Safety Instructions Panel", "First Aid Box", "Gear Hook",
+      "Backpack Shelf", "Drink Station", "Waiting Bench", "Locker Unit",
+      "Mirror Panel", "Map Stand", "Fan Unit", "Curtains", "Trash Bin", "Other"
+    ],
+    "Obstacle Course": [
+      "Netting Structure", "Step Platform", "Hanging Bar Frame",
+      "Signage Stand", "Shoes Tray", "Water Bottle Holder", "Timer Station",
+      "Referee Bench", "Helmet Box", "Knee Pad Cabinet", "Gear Hook",
+      "Shade Tent Frame", "Whistle Hook", "Flag Post", "Trophy Table",
+      "Rules Display Board", "Rest Station", "Bench Stand", "Storage Locker", "Other"
+    ]
+  },
+  "167. Wildlife Parks": {
+    "Safari Lodge": [
+      "Patio Bench", "Wooden Sofa", "Animal Skin Rug", "Rustic Bed Frame",
+      "Lantern Stand", "Animal Art Wall", "Curtains", "Wooden Coffee Table",
+      "Trophy Shelf", "Woven Basket Shelf", "Fan Unit", "Outdoor Chair Set",
+      "Display Frame", "Map Board", "Information Shelf", "Hammock Frame",
+      "Portable Desk", "Closet Frame", "Mirror", "Other"
+    ],
+    "Viewing Deck": [
+      "Telescope Stand", "Binocular Hook", "Map Display Rack", "Bench",
+      "Observation Notes Table", "Signage Board", "Sunshade Frame",
+      "Curtain Rail", "Water Bottle Shelf", "Wildlife Chart Board",
+      "First Aid Box", "Spotting Scope Mount", "Directional Signage",
+      "Safety Railing", "Trash Bin", "Camera Tripod Base", "Rug",
+      "Curtains", "Wooden Slat Seat", "Other"
+    ]
+  },
+  "168. Ice & Snow Recreation": {
+    "Ice Rink": [
+      "Skate Rack", "Bench", "Changing Booth", "Helmet Stand",
+      "Glove Cabinet", "Score Display Console", "Referee Table",
+      "Ice Scraper Stand", "Rules Board", "First Aid Panel", "Wall Heater Frame",
+      "Trash Bin", "Curtain Divider", "Fan Unit", "Coat Hook Rack",
+      "Skating Shoe Shelf", "Equipment Cabinet", "Curtains", "Wall Clock", "Other"
+    ],
+    "Ski Lodge": [
+      "Ski Rack", "Hot Drink Station", "Fireplace Bench", "Snowboard Stand",
+      "Bean Bag Chair", "Wool Blanket Shelf", "Boot Dryer Rack", "Glove Hanger",
+      "Coat Rack", "Mountain Map Stand", "Trophy Case", "Photo Board",
+      "Curtains", "Fan Unit", "Reception Counter", "Storage Locker", "Helmet Box",
+      "Snack Bar Shelf", "Curtain Divider", "Other"
+    ]
+  },
+  "169. Outer Space Simulation": {
+    "Space Exhibit": [
+      "Astronaut Model Stand", "Rocket Display Frame", "Planet Globe Shelf",
+      "Moon Surface Model", "Touchscreen Info Console", "Lighting Panels",
+      "Curtains", "Airlock Frame", "Interactive Display", "Model Satellite Rack",
+      "Alien Model Stand", "Stellar Chart Panel", "Info Panel", "Photo Booth",
+      "Display Cabinet", "Mission Control Console", "VR Station", "Ceiling Projector",
+      "Fan Unit", "Other"
+    ],
+    "Planetarium": [
+      "Star Map Panel", "Telescope Mount", "Control Console", "Projection Dome Frame",
+      "Lighting Rig", "Curtains", "Viewer Seat", "Wall Chart",
+      "Lecture Podium", "Poster Frame", "Exhibit Rack", "Monitor Panel",
+      "Ceiling Panel Lights", "Fan Unit", "Storage Cabinet", "Binocular Rack",
+      "Ticket Kiosk Stand", "Projector Table", "Speaker Mount", "Other"
+    ]
+  },
+  "170. Virtual & Gaming Zones": {
+    "VR Gaming Room": [
+      "Sensor Pole Stand", "Headset Rack", "Controller Tray", "Cooling Fan Frame",
+      "Player Mat Frame", "Speaker Console", "Charging Station", "Game Title Rack",
+      "Ambient Light Panels", "Footwear Tray", "Wrist Strap Shelf", "LED Strip Holder",
+      "Wall Cushions", "Mirror Panel", "Seatless Gaming Station", "VR Gun Stand",
+      "Fan Unit", "Curtains", "Monitor Mount", "Other"
+    ],
+    "eSports Arena": [
+      "Gaming Desk", "Ergonomic Chair", "Cable Management Frame", "Player Name Board",
+      "LED Monitor Wall", "Streaming Booth", "Sound Mixer Shelf", "Gaming Console Rack",
+      "Team Locker Shelf", "Trophy Case", "Ambient Wall Panels", "Lighting Control Desk",
+      "Headset Hanger", "Keyboard Tray", "CPU Stand", "Cooling Station",
+      "Fan Unit", "Commentator Desk", "Curtains", "Other"
+    ]
+  }
+}
