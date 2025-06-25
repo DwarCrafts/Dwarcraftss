@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>DwarCrafts | Where Ideas Take Form</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" href="logo.png" type="image/png" />
+</head>
+<body>
+
+  <!-- Dark Mode Toggle -->
+  <button id="darkModeToggle">🌓</button>
+
+  <!-- Hero Section -->
+  <header class="hero">
+    <img src="logo.png" alt="DwarCrafts Logo" class="logo">
+    <h1>DwarCrafts</h1>
+    <p class="tagline">Where Ideas Take Form</p>
+
+    <!-- Language Toggle -->
+    <div class="language-toggle">
+      <label><input type="radio" name="lang" value="en" checked> English</label>
+      <label><input type="radio" name="lang" value="sw"> Kiswahili</label>
+    </div>
+  </header>
+
+  <!-- Navigation -->
+  <nav class="navbar">
+    <a href="index.html">Home</a>
+    <a href="generator.html">Order</a>
+    <a href="gallery.html">Gallery</a>
+    <a href="track.html">Track</a>
+    <a href="admin.html">Admin</a>
+  </nav>
+
+  <!-- Main Content -->
+  <main class="intro-section">
+    <section class="intro">
+      <h2>Welcome to DwarCrafts</h2>
+      <p>
+        At DwarCrafts, we transform your dreams into beautifully crafted woodwork pieces. Whether it's furniture, decor, or personalized art — if you can imagine it, we can create it.
+      </p>
+    </section>
+
+    <section class="why-choose-us">
+      <h2>Why Choose Us?</h2>
+      <ul>
+        <li>✔️ Free delivery within Nairobi</li>
+        <li>✔️ AI-assisted design previews</li>
+        <li>✔️ Custom orders from photos or ideas</li>
+        <li>✔️ Secure order tracking and admin support</li>
+      </ul>
+    </section>
+
+    <!-- Social Icons -->
+    <section class="social-icons">
+      <a href="https://wa.me/254714129889" target="_blank" title="WhatsApp">🟢</a>
+      <a href="https://www.instagram.com/dwarcrafts" target="_blank" title="Instagram">📷</a>
+      <a href="https://www.pinterest.com/dwarcrafts" target="_blank" title="Pinterest">🅿️</a>
+      <a href="https://x.com/dwarcrafts" target="_blank" title="X/Twitter">🐦</a>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <p>&copy; 2025 DwarCrafts | Crafted with ♥ in Kenya</p>
+  </footer>
+
+  <script>
+    document.getElementById('darkModeToggle').addEventListener('click', () => {
+      document.body.classList.toggle('dark-mode');
+    });
+
+    const langRadios = document.querySelectorAll('input[name="lang"]');
+    langRadios.forEach(radio => {
+      radio.addEventListener('change', e => {
+        const lang = e.target.value;
+        document.querySelector('.intro h2').textContent = lang === 'sw' ? 'Karibu DwarCrafts' : 'Welcome to DwarCrafts';
+        document.querySelector('.intro p').textContent = lang === 'sw'
+          ? 'Katika DwarCrafts, tunabadilisha ndoto zako kuwa kazi ya sanaa ya kipekee.'
+          : 'At DwarCrafts, we transform your dreams into beautifully crafted woodwork pieces.';
+        document.querySelector('.why-choose-us h2').textContent = lang === 'sw' ? 'Kwa Nini Utuchague?' : 'Why Choose Us?';
+      });
+    });
+  </script>
+</body>
+</html>
