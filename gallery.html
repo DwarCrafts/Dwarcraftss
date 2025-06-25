@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>DwarCrafts Gallery</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="icon" href="logo.png" />
+</head>
+<body>
+  <!-- Dark Mode Toggle -->
+  <button id="darkModeToggle">🌙</button>
+
+  <!-- Logo Watermark -->
+  <img src="logo.png" alt="DwarCrafts Logo" class="watermark" />
+
+  <!-- Navigation Bar -->
+  <div class="navbar">
+    <a href="index.html">🏠 Home</a>
+    <a href="generator.html">🎨 Order</a>
+    <a href="gallery.html">🖼 Gallery</a>
+  </div>
+
+  <!-- Page Heading -->
+  <h1>Our Creative Works</h1>
+
+  <!-- Gallery Section -->
+  <div class="gallery" id="galleryGrid">
+    <!-- Images will be loaded dynamically by admin uploads -->
+  </div>
+
+  <!-- Script -->
+  <script type="module">
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.0/firebase-app.js";
+    import { getStorage, ref, listAll, getDownloadURL } from "https://www.gstatic.com/firebasejs/10.12.0/firebase-storage.js";
+
+    const firebaseConfig = {
+      apiKey: "AIzaSyCvZqDkc9ry9WwkT0rvK30-ZvWv_-7vmig",
+      authDomain: "dwarcrafts-firebase.firebaseapp.com",
+      projectId: "dwarcrafts-firebase",
+      storageBucket: "dwarcrafts-firebase.appspot.com",
+      messagingSenderId: "91776713343",
+      appId: "1:91776713343:web:63fab986c65c7a7800f54a"
+    };
+
+    const app = initializeApp(firebaseConfig);
+    const storage = getStorage(app);
+    const galleryGrid = document.getElementById("galleryGrid");
+
+    async function loadGallery() {
+      const galleryRef = ref(storage, 'gallery');
+      const files = await listAll(galleryRef);
+      for (const item of files.items) {
+        const url = await getDownloadURL(item);
+        const img = document.createElement("img");
+        img.src = url;
+        img.alt = "Craft Item";
+        galleryGrid.appendChild(img);
+      }
+    }
+
+    loadGallery();
+
+    // Dark Mode Toggle
+    document.getElementById("darkModeToggle").addEventListener("click", () => {
+      document.body.classList.toggle("dark-mode");
+    });
+  </script>
+</body>
+</html>
