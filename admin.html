@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Admin - DwarCrafts</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-app.js" type="module"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-auth.js" type="module"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-firestore.js" type="module"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-storage.js" type="module"></script>
+</head>
+<body>
+  <div id="adminPanel" style="display: none;">
+    <h2>Welcome, Admin</h2>
+    <div>
+      <h3>Upload Project to Gallery</h3>
+      <form id="galleryForm">
+        <input type="text" id="title" placeholder="Project Title" required>
+        <input type="file" id="galleryImage" accept="image/*" required>
+        <img id="previewImage" style="display: none; max-width: 300px; margin-top: 10px;">
+        <button type="submit">Upload to Gallery</button>
+      </form>
+    </div>
+
+    <div style="margin-top: 30px;">
+      <h3>Orders</h3>
+      <div id="ordersContainer"></div>
+    </div>
+  </div>
+
+  <div id="loginForm">
+    <h2>Admin Login</h2>
+    <input type="email" id="adminEmail" placeholder="Email" value="dwarcraftsllc@gmail.com" required>
+    <input type="password" id="adminPassword" placeholder="Password" required>
+    <button onclick="login()">Login</button>
+    <p id="loginStatus" style="color: red; margin-top: 10px;"></p>
+  </div>
+
+  <script type="module" src="admin.js"></script>
+</body>
+</html>
