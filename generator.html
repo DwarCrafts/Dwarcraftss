@@ -1,27 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>DwarCrafts | Order Generator</title>
-  <link rel="stylesheet" href="styles.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Generate Order - DwarCrafts</title>
+  <link rel="stylesheet" href="styles.css" />
   <script type="module" src="generator.js" defer></script>
 </head>
 <body>
-  <!-- Dark Mode Toggle -->
-  <button id="darkModeToggle">🌓</button>
 
-  <!-- Logo -->
-  <img src="logo.png" alt="DwarCrafts Logo" class="logo">
+  <button id="darkModeToggle">🌙</button>
 
-  <h1>Custom Order Generator</h1>
+  <img src="logo.png" class="logo" alt="DwarCrafts Logo">
+  <h1>DwarCrafts Order Generator</h1>
 
   <form id="orderForm">
     <input type="text" id="name" placeholder="Your Name" required />
     <input type="tel" id="phone" placeholder="Phone Number" required />
-    
+
     <select id="category" required>
-      <option disabled selected>Loading categories...</option>
+      <option disabled selected>Select Category</option>
     </select>
 
     <select id="space" required>
@@ -32,39 +30,29 @@
       <option disabled selected>Select Subcategory</option>
     </select>
 
+    <input type="text" id="woodType" placeholder="Type of Wood" />
+    <input type="text" id="location" placeholder="Delivery Location" />
+    <textarea id="instructions" placeholder="Design Instructions"></textarea>
+
     <div id="otherDetailsField" style="display: none;">
-      <input type="text" id="otherDetails" placeholder="Specify if Other..." />
+      <textarea id="otherDetails" placeholder="Other Details (if any)"></textarea>
     </div>
 
-    <input type="text" id="woodType" placeholder="Preferred Wood Type" />
-    <textarea id="instructions" placeholder="Additional Instructions"></textarea>
-    <input type="text" id="location" placeholder="Your Location (GPS or Area)" required />
-
-    <!-- AI Prompt -->
-    <input type="text" id="aiPrompt" placeholder="AI Prompt (optional)" />
-    <button type="button" id="generateAI">Generate Image with AI</button>
-
-    <!-- Image Upload -->
-    <label for="imageUpload">Upload your sketch or inspiration:</label>
     <input type="file" id="imageUpload" accept="image/*" />
+    <img id="imagePreview" alt="Preview" style="display:none;" />
+    <img id="aiPreview" alt="AI Preview" style="display:none;" />
 
-    <!-- Preview -->
-    <img id="imagePreview" class="order-image" />
-    <img id="aiPreview" class="order-image" />
+    <textarea id="aiPrompt" placeholder="Describe design to generate AI image (optional)"></textarea>
+    <button type="button" id="generateAI">Generate AI Image</button>
 
-    <!-- Submit -->
     <button type="submit">Submit Order</button>
   </form>
 
-  <!-- Watermark -->
-  <img src="logo.png" class="watermark" alt="Watermark">
+  <img src="logo.png" class="watermark" alt="DwarCrafts Watermark"/>
 
-  <!-- Social Links -->
-  <div class="social-icons">
-    <a href="https://wa.me/254714129889" target="_blank">🟢</a>
-    <a href="https://instagram.com/dwarcrafts" target="_blank">📸</a>
-    <a href="https://pinterest.com/dwarcrafts" target="_blank">🅿️</a>
-    <a href="https://x.com/dwarcrafts" target="_blank">🐦</a>
-  </div>
+  <script type="application/json" id="spaceData">
+    <!-- Will be loaded by generator.js from spaces.json -->
+  </script>
+
 </body>
 </html>
