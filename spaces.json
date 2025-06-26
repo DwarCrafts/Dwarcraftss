@@ -147,8 +147,8 @@
       "Dining Table", "Dining Chair", "Booth Seat", "Buffet Counter", "Bar Stool",
       "Menu Stand", "Decorative Light", "Wall Decor", "Serving Shelf", "Napkin Holder",
       "Condiment Stand", "Centerpiece", "Divider Panel", "Waiter's Station", "Table Number Holder",
-      "Host Stand", "Bench", "Wine Rack", "High Chair", "Other"
-content://com.android.externalstorage.documents/tree/primary%3ADwarCraftsSite1::primary:DwarCraftsSite1/spaces.json    ]
+      "Host Stand", "Bench", "Wine Rack", "other"
+    ]
   },
   "7. Outdoor & Recreational": {
     "Garden": [
@@ -211,7 +211,6 @@ content://com.android.externalstorage.documents/tree/primary%3ADwarCraftsSite1::
       "Partition Panel", "Waste Bin", "Other"
     ]
   },
-  {
   "10. Education & Learning": {
     "Library": [
       "Book Shelf", "Reading Table", "Study Chair", "Magazines Rack", "Laptop Desk",
